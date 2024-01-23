@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjJ8jDRYP5XTBj8LiaLuQ3xoojV9",
+    "object": "chat.completion",
+    "created": 1704956302,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1158,
+        "completion_tokens": 283,
+        "total_tokens": 1441
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls in kemonomimi_mode, specifically dog_girls with animal_ears and dog_tail. One girl has black_hair and purple_eyes, wearing a grey_shirt and a red_collar. A white_background emphasizes the characters. The other girl, with blonde_hair, long_hair styled into short_twintails with a red_ribbon, hair_ribbon, and an off-shoulder_shirt, has closed_eyes and shows a tongue_out expression. The black_hair girl holds a leash attached to the red_collar of a lying figure, also with dog_ears, who appears to be an extension of the scene rendered with less detail. The lying figure and the blonde_hair girl are posed in a candid moment of yuri, a Japanese term for a genre involving romantic or sexual relationships between women, suggested by the heart motifs and their close physical interaction. Notice_lines, speech_bubble with chinese_text, and a heart surround the girls, denoting an animated interaction.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"bob_cut, collar, holding, holding_leash, lying, medium_breasts, multiple_girls, off_shoulder, oversized_clothes, oversized_shirt, ribbon, shirt, tail, white_shirt\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjZLnMHiBpyv8ON8bDTepMpBbjmf",
+    "object": "chat.completion",
+    "created": 1704957307,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1441,
+        "completion_tokens": 229,
+        "total_tokens": 1670
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image captures a scene with multiple_boys, who appear to be brothers, walking outdoors in a forest by a stream at evening. One boy is wearing an orange_shirt, and a white_shirt underneath, while the other is adorned with a blue rain_poncho. Both are holding_hands as they walk, the one in the orange_shirt with his arm_up, possibly aged_down to depict youthfulness. They are looking_away from the viewer towards the sunlight, which is hitting the trees and creating reflections in the river. The red_eyes and yellow_eyes of the boys suggest they may not be ordinary humans but have distinctive features, possibly indicating fantasy elements. In the background, a bridge arcs over the river and the setting sun casts a warm glow, highlighting the elements of nature, such as the trees, undershirt, and squirrel. This wide_shot emphasizes the expanse of the natural environment around them.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": [\"fantasy elements\", \"youthful\", \"warm glow\"]\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

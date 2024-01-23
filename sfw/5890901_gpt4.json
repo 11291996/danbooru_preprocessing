@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjXdYI7OoXPkRMhSWnu5ERnG0JgZ",
+    "object": "chat.completion",
+    "created": 1704957201,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1177,
+        "completion_tokens": 226,
+        "total_tokens": 1403
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features two girls cosplaying as Morrigan Aensland and Lilith Aensland, with the former in a black leotard and the latter in a pink leotard, both adorned with bat prints and feather trims. They are standing against a yellow background, with arms up and hands up in playful poses, showcasing the highleg cut of their leotards. Their cosplay includes details like bridal gauntlets, demon wings, head wings, and low wings. They have large breasts, visible cleavage, and their armpits are exposed due to the arms_behind_head pose. The girl cosplaying Morrigan has brown hair, brown eyes, and her lips are parted in a smile, while Lilith has long, pink hair, open mouth, and purple eyes. Both characters exude a playful and sultry demeanor while wearing pantyhose that cover their navel.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"playful, sultry, standing, pantyhose, part of body\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

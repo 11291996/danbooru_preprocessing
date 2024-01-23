@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fiw7vekog8hc6lcjOYXZo6CZDUwp",
+    "object": "chat.completion",
+    "created": 1704954875,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1088,
+        "completion_tokens": 120,
+        "total_tokens": 1208
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"1girl with long_hair, green_hair, and blue_eyes, wearing a headband and hair_ornament, exhibits small_breasts, cleavage, and is donning elbow_gloves, boots which are thighhighs and green_footwear. 1boy appears surprised while being carrying by the girl. Both characters are detailed with attributes such as gloves for the girl and thigh_boots.\",\n  \"RATING\" : \"SAFE\",\n  \"ADDITIONAL_TAGS\" : \"anime_style, embrace\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

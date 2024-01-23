@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjICl8olkwBzh7myrdwF8GfrgxQE",
+    "object": "chat.completion",
+    "created": 1704956244,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1427,
+        "completion_tokens": 134,
+        "total_tokens": 1561
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n\"RESPONSE\": \"The image features 1girl with green_hair and red_eyes, exhibiting a smile and ^_^ expression. She is depicted with various elements such as bare_shoulders, short_hair, and an ahoge. The attire includes a dress, skirt, arm_garter, gloves, and boots. The girl is dual_wielding swords and appears to be holding a butterfly, with a bug motif surrounding her. The character is looking_at_viewer in one of the multiple_views, and the weapon is a prominent part of the character's depiction.\",\n\"RATING\": \"SAFE\",\n\"ADDITIONAL_TAGS\": \"character, animated\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

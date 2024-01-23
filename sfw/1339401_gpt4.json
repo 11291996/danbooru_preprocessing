@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjVtnOkv4xLuk7joUTVA267AlAl7",
+    "object": "chat.completion",
+    "created": 1704957093,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1417,
+        "completion_tokens": 126,
+        "total_tokens": 1543
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2boys, one with blonde_hair, blue_eyes, and a headband, the other with purple_hair, green_eyes, and a facial_mark. Both are sporting fingerless_gloves and midriff-bearing tops. The boy with blonde hair has a scarf around his neck, while the boy with purple hair wears a top with a triangle_print. Bubbles are present around them, adding to the playful ambiance of the scene.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime_style\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

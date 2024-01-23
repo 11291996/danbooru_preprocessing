@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjMuWoNv4MxYlBb2nEFABiEnEpTd",
+    "object": "chat.completion",
+    "created": 1704956536,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1088,
+        "completion_tokens": 138,
+        "total_tokens": 1226
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"The image features a 1girl with brown_hair and red_hair highlights, portrayed in a cowboy_shot. She is wearing a yellow_jumpsuit with cleavage visible, indicating breasts. Her makeup includes eyeshadow, and she exhibits a simple_background. She is holding a smartphone and appears to be looking_at_object, which in this context is her cellphone. Additionally, there is a watermark present, displaying both a patreon_logo and patreon_username, along with a web_address.\",\n  \"RATING\" : \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\" : \"illustration, character, fashion\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

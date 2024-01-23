@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjUYImhySqB6s5MLc4aCwXeSIsbj",
+    "object": "chat.completion",
+    "created": 1704957010,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1404,
+        "completion_tokens": 98,
+        "total_tokens": 1502
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 3girls with blonde_hair and blue_eyes. One is sporting a braid, another has long_hair, and the third has short_hair. They are depicted in a setting that suggests a tea session, as evidenced by the presence of a tea cup.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"traditional_clothing, indoor_setting, Japanese_style_room\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

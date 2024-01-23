@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYuI3hYx3Y7dul217Wyjmqkq6Ds",
+    "object": "chat.completion",
+    "created": 1704957280,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1419,
+        "completion_tokens": 160,
+        "total_tokens": 1579
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The greyscale comic features a monochrome aesthetic, depicting a silent_comic sequence with 1boy and 1girl. The scenes include a bed without occupants, food with a focus on a plate of spaghetti and a separate plate with pancakes, cleaning activities likely performed by the faceless_male, and finally a happy expression on the face of the 1girl shown eating a pancake with an open_mouth and smile. The girl also has notable burn_scar and scar elements on her face, and the boy is depicted as faceless. The comic doesn\u2019t contain any dialogue, creating a silent and expressive storytelling.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"storytelling, expression, narrative\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjNJEkWz0imxaPoJFqu8sULmRUqN",
+    "object": "chat.completion",
+    "created": 1704956561,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1058,
+        "completion_tokens": 83,
+        "total_tokens": 1141
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The greyscale comic depicts a scene with 1boy and 1girl, where the boy seems to hold a birthday gift, surprising the girl. Details like hair_ribbon and ribbon are evident in this monochrome artwork.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"surprise, gift, outdoor, facial_expression\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

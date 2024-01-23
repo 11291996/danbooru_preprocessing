@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjVOarmQIW3whIbrU6cKbKY2aNZK",
+    "object": "chat.completion",
+    "created": 1704957062,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1107,
+        "completion_tokens": 150,
+        "total_tokens": 1257
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 1boy and 4girls in cosplay, representing characters from a known series, potentially at an event like comiket. The characters are identified by their cosplay: maebara_keiichi_(cosplay), furude_rika_(cosplay), houjou_satoko_(cosplay), ryuuguu_rena_(cosplay), and sonozaki_mion_(cosplay). They are interacting with each other, and the setting includes a book, possibly manga related to their costumes. The attire of some characters includes thighhighs.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"group, event, interaction\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

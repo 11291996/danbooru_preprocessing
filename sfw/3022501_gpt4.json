@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYWHa5Xp3bsugBRFA38Yf1aRLUh",
+    "object": "chat.completion",
+    "created": 1704957256,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1431,
+        "completion_tokens": 172,
+        "total_tokens": 1603
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts a comic with 3girls featuring one with orange_hair and a ponytail, another with red_hair and a side_ponytail, and a third with purple_hair. The girl with red_hair is smoking a cigarette and has smoke coming from her mouth, indicating the act of smoking. The presence of breasts and cleavage can be identified in their upper_body clothing which is sleeveless. Earrings and other jewelry are partially visible, indicating some level of fur detail. The orange_hair and red_hair characters exhibit closed_eyes, while the one with purple_hair is looking_at_another. An ahoge is noticeable on the character with orange_hair.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"emotion_display\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTaIOvM96q6Qudh56UpwpmxosP6",
+    "object": "chat.completion",
+    "created": 1704956950,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1442,
+        "completion_tokens": 156,
+        "total_tokens": 1598
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features a solo 1girl indoors, dressed as an office_lady in a skirt_suit, which includes a black_skirt, suit, and a formal shirt. She has large_breasts, black_hair, black_eyes, and short_hair adorned with a hair_ornament and hairclip. The girl displays a smile, an open_mouth with a visible fang, and is looking_at_viewer while placing her hand_on_own_chest and holding an id_card. The attire is complemented by a pencil_skirt, and the shot is composed as a cowboy_shot.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime_style, confident_pose\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

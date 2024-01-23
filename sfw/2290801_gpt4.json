@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjVtgSGozgn8FeH7R4nlSZgKy8j6",
+    "object": "chat.completion",
+    "created": 1704957093,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1479,
+        "completion_tokens": 196,
+        "total_tokens": 1675
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts a 4koma style comic featuring 5girls displaying various expressions such as a false smile, open mouth, and smile. The characters include one with blonde_hair and an alternate_costume, one with brown_hair showing a menacing_(jojo) expression while holding an ice_cream, a blonde character with a suzu_head headdress, and one with a peaked_cap. The comic includes elements such as a hand_on_another's_shoulder, flying_sweatdrops, and a shaded_face. The expressions range from closed eyes, :d, :p, ^_^, to v-shaped_eyebrows. Emotive symbols like a heart and food elements, such as ice_cream, contribute to the playful atmosphere of the scene.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"comic elements, facial expressions, clothing detail, playful atmosphere\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

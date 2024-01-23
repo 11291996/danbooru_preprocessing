@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTz7QJqepflgCEdbnhjBtHuQyQc",
+    "object": "chat.completion",
+    "created": 1704956975,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1436,
+        "completion_tokens": 143,
+        "total_tokens": 1579
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls with long_hair; one with blonde_hair, blue_eyes, and a hair_ribbon tied in a ponytail, and the other with purple_hair, purple_eyes, and sidelocks. Both exhibit a smile and blush, wearing a nanamori_school_uniform consisting of a serafuku (sailor_dress) and pantyhose. Positioned sitting, they are surrounded by petals with a gift in hand, complementing their school_uniform with open_mouth expressions of joy.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"petals, joy, companionship\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

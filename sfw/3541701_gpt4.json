@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fj1cY7VbR9PHuzPpy3QAIYQbH2e5",
+    "object": "chat.completion",
+    "created": 1704955216,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1544,
+        "completion_tokens": 236,
+        "total_tokens": 1780
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image is a greyscale monochrome 4koma comic featuring multiple_girls with varying expressions such as :d :o ^_^, showcasing hairstyles with elements like hair_ribbon, hair_bow, and very_long_hair. Some characters display emotions through blush and sweat. Clothing items depicted include dress, long_sleeves, detached_sleeves, sleeveless, sleeveless_dress, elbow_gloves, gloves, beret, hat, sun_hat, and garter_straps, demonstrating a mix of fashion from bare_shoulders to thighhighs. The physical attributes such as large_breasts, medium_breasts, cleavage, navel, and underwear are visible. Poses include hand_on_own_chest, hand_up, outstretched_arm, and v_arms, adding dynamic to the frames. Notably, a presence of a mole_under_eye and accessories like hair_ornament, ribbon, striped_bow, and iron_cross are seen.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"comic, humor, character_interaction\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

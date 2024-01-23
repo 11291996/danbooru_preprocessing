@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYDKFBFulshrqEq27yHmqEZ2s2a",
+    "object": "chat.completion",
+    "created": 1704957237,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1423,
+        "completion_tokens": 140,
+        "total_tokens": 1563
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image portrays two girls engaged in a romantic embrace, sharing a kiss; multiple hearts float around them emphasizing the affectionate nature of the scene. Both characters display blush on their cheeks, indicative of their emotional state. One girl features black hair with blunt bangs and a braid, while the other has brown hair with long, flowing locks. Their eyes are closed, further communicating the intimacy of the moment. They are dressed in traditional school uniforms (serafuku), complete with pleated skirts.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"romantic, intimacy, affection, school life, emotional\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

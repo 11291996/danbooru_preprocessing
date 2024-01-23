@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fiygrFrMamYfbFmec2NjhRIoCp3U",
+    "object": "chat.completion",
+    "created": 1704955034,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1427,
+        "completion_tokens": 178,
+        "total_tokens": 1605
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The greyscale, monochrome comic depicts a scene involving 2girls, where one displays a grin and v-shaped_eyebrows, suggesting mischief as she engages in clothes_theft, specifically underwear_theft, leaving the other with an expression of surprise and blush on her face. The girl caught by surprise has long_hair, a dress, and a hat, while the mischievous one is partially dressed in lingerie, signified by the open_mouth of the victim and sweatdrop indicating the suddenness of the theft. Multiple_girls are involved in this interaction, and the theft is characterized by a comedic tone as evidenced by the dialogue bubbles and the overall humorous situation.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"humor, dialogue_bubbles, comedic_situation\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

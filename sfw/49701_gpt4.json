@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTETn3lt2VAps0K604FgZgfOPuW",
+    "object": "chat.completion",
+    "created": 1704956928,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1114,
+        "completion_tokens": 190,
+        "total_tokens": 1304
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls engaging in a stretching exercise on what appears to be a grassy field. One girl with black_hair, buruma, and a yellow towel_around_neck has an open_mouth, exhibiting a wince, possibly indicating discomfort or exertion. She is supported by another girl with long_hair, very_long_hair that is low-tied_long_hair, secured with a hairband. This girl in a red_leotard and sportswear is providing arm_support and has a look of determination. Both are looking_at_viewer, and the emblem on their outfits suggests they are part of a sports team. There are shoe_soles visible indicating athletic footwear. The presence of sweat indicates physical activity.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"exercise, grass field, outdoors, team practice, athletic activity\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

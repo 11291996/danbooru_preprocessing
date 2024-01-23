@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjSAmqii8dbrt7zdC2B1OD0swD2Z",
+    "object": "chat.completion",
+    "created": 1704956862,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 793,
+        "completion_tokens": 215,
+        "total_tokens": 1008
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 3girls engaged in candeloro's_familiars_(cosplay) and candeloro_(cosplay), adorned with apron, bow, and hair_ornament, expressing emotions akin to blush and smile, while one exhibits a fang. Among them, one girl with pink_hair and red_eyes is sandwiched between the other two, who have blonde_hair with yellow_eyes and twin_drills, and long_hair, respectively. Each character displays unique hair styles like drill_hair suggesting personality traits or attributes related to their cosplay characters. Central figures evoke a girl_sandwich scenario, portrayed in a manner befitting personification and cosplaying as witch_(madoka_magica). The familiarity and time_paradox elements are artistically embodied through the heart and arrow_(symbol), as well as the varied expressions such as open_mouth.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime_style, group_portrait\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjR2pmUlGU0g3TFG6UXke6HopkPw",
+    "object": "chat.completion",
+    "created": 1704956792,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1493,
+        "completion_tokens": 259,
+        "total_tokens": 1752
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n\"RESPONSE\" : \"The monochrome comic depicts a scene with multiple_girls wearing school_uniform, which includes sailor_shirt, pleated_skirt, and winter_uniform, at a horse_racing_track. Some of the girls exhibit animal_ears, horse_ears, horse_tail, and even a model with a tail, characteristic of horse_girls. The crowd scene showcases faceless people including faceless_male figures, blending with characters featuring long_hair, short_hair, braid, and blunt_bangs. Various expressions and actions are captured, such as a girl holding_pencil, one with food_on_face, and speech_bubble indicating dialogue. Accessories such as glasses, bow, bowtie, ear_bow, necktie, pillbox_hat, and headgear add detail to the characters. Accessories like a sweatdrop and a spoon add to the comedic setting. One girl stands out with a sailor_collar and holding_spoon, while another is sketched with a pencil, hinting at a meme or parody element. Details like the scene_reference and people holding and interacting suggest a dynamic environment.\",\n\"RATING\" : \"SAFE\",\n\"ADDITIONAL_TAGS\" : \"humor, interaction, parody, comedic expression\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

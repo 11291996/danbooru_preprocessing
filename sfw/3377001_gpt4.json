@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fiuVUkCDZEWcKGcA02gvzq0MzU18",
+    "object": "chat.completion",
+    "created": 1704954775,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1500,
+        "completion_tokens": 168,
+        "total_tokens": 1668
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features multiple_girls in a Christmas setting with a christmas_tree and gifts, showcasing a comic-style presentation. One girl is dressed in a santa_costume with a santa_hat, and another is dressed in plaid_pajamas. The girl in santa_costume is standing, whereas the others are sitting and one appears to be sleeping under_covers. The flying_sweatdrops and spoken_ellipsis indicate a humorous or awkward situation. Characters display a range of emotions, including surprise and contemplation, while one holds a letter as if she's writing. The scene likely captures a moment of interaction among the girls during the Christmas holiday.\"\n\n  \"RATING\": \"SAFE\",\n\n  \"ADDITIONAL_TAGS\": \"comic, facial_expression, interaction, holiday_season\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjXlkvWMEBoV6RdS98YpgQqudQUT",
+    "object": "chat.completion",
+    "created": 1704957209,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1154,
+        "completion_tokens": 266,
+        "total_tokens": 1420
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image is a comic featuring characters involved in a story where a kiss is central to the narrative. The characters consist of 1boy with blue_hair, blue_shorts, and a vest, who appears to be surprised with blush on his face and an open_mouth expression. In addition to the boy, there are 2girls, one with green_hair, a detached_wings, exhibiting a side_ponytail and wearing an overall_shorts with an ascot, displaying a smile and heart symbols which indicate affection or a kiss; the other girl has a blue_skirt, blue_vest, blue_eyes, and is depicted with emphasis_lines surrounding her and a closed_mouth in shock. There is also a fairy with ice_wings and green_eyes. The scene depicts the genders before and after a genderswap_(ftm), shown by the differences in appearance between panels. Furthermore, the comic includes speech_bubble, indicating the characters are engaging in dialogue, and another emphasis like heart and shock lines. The overall tone of the image conveys a playful and magical transformation with a humorous kiss_day theme.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"comic, transformation, magical, playful, humorous\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

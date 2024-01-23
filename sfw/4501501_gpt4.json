@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjXZtu3jAPLNSoJkf9gByvn4JTDG",
+    "object": "chat.completion",
+    "created": 1704957197,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1100,
+        "completion_tokens": 155,
+        "total_tokens": 1255
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n\"RESPONSE\" : \"The image features 2girls, one with blonde_hair, green_eyes, and green_nails, and another figure implied by the presence of brown_legwear and shorts. The girl with blonde_hair is showing midriff, underboob, and has silver_nails. Their expressions hint at a yuri theme, indicated by their close proximity and intimate pose. The artist_name is dated, and there's a white_background accentuating the characters. The patterned_legwear, hip_bones, groove, and topless elements of the blonde-haired girl contribute to the sensual tone of the artwork.\",\n\"RATING\" : \"QUESTIONABLE\",\n\"ADDITIONAL_TAGS\" : \"intimacy, sensual_pose\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

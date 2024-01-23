@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjVTkhbVHE3b0OOQ9ybaUwL56wqG",
+    "object": "chat.completion",
+    "created": 1704957067,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1440,
+        "completion_tokens": 138,
+        "total_tokens": 1578
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n\"RESPONSE\": \"This greyscale 2koma comic features a genderswap scenario involving 1boy and 1girl with animal_ears, specifically horse_ears. The boy has short_hair, blue_eyes, and exhibits blunt_bangs; similarly, the girl has short_hair, purple_eyes and also shares the blunt_bangs trait. Both characters express curiosity or confusion, emphasized by the speech_bubble coming from each. Spot_color is used to highlight their eyes. Sweatdrop details indicate a sense of awkwardness or embarrassment.\",\n\"RATING\": \"SAFE\",\n\"ADDITIONAL_TAGS\": \"possible recursive_genderswap, monochrome\" \n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYS3ucWtNFJf1W6syoXM71iPZS6",
+    "object": "chat.completion",
+    "created": 1704957252,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1136,
+        "completion_tokens": 194,
+        "total_tokens": 1330
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 1boy and 1girl depicted as siblings in action, with the boy wearing a black_jacket, black_pants, and checkered_haori, symbolizing a typical demon_slayer_uniform. He is seen holding a katana, indicative of his status as a warrior ready for battle. The girl is wearing a pink_kimono with a sash, obi, and a hair_ribbon, her long_hair and brown_hair flowing with the movement. They're surrounded by elements of fire and water, represented by a dragon, adding a dynamic vibe to the scene. Both characters possess scar_on_forehead and scar_on_face, hinting at past battles or significant events in their storyline. The simple_background serves to focus attention on the subjects.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime, dynamic pose, elemental effects\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

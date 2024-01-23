@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjLYsJfkLUlgouk9vxF2vQdWmnuQ",
+    "object": "chat.completion",
+    "created": 1704956452,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1147,
+        "completion_tokens": 241,
+        "total_tokens": 1388
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n\"RESPONSE\" : \"The image presents 2girls engaged in cosplay, with one portraying edna_(tales)_(cosplay) featuring blonde_hair, short_hair, green_bow, and a dress that is sleeveless and has a bow, and the other embodying lailah_(tales)_(cosplay) characterized by grey_hair, very_long_hair, green_eyes, and a white_dress. Both characters are adorned with hair_bow or hair_ribbon, and one displays a noticeable collarbone as well as a choker. They exhibit floating_hair and are looking_at_viewer with a smile. The background is simple and white, enhancing the focus on their costumes, such as the short_dress and sleeveless_dress. The medium_breasts are visible but depicted tastefully, and the short_dress is being tugged at modestly, suggesting a playful yet benign scenario. The artistic style suggests a costume_switch, ensuring viewers recognize the characters switching their traditional outfits.\",\n\"RATING\" : \"SAFE\",\n\"ADDITIONAL_TAGS\" : \"playful_pose, character_recognition, artistic_representation\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

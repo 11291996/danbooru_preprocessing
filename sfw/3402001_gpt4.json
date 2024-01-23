@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fiyxHozfqgnu2dtcN0xR6Em2gOW6",
+    "object": "chat.completion",
+    "created": 1704955051,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1463,
+        "completion_tokens": 287,
+        "total_tokens": 1750
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"RESPONSE\": \"The image is a greyscale 4koma comic featuring three scenes with multiple_boys, talking, and speech_bubble. In the first panel, a floating_head with long_hair and a mole above the mouth is presented next to a halftone, two-tone_background, along with text_focus emphasizing the dialogue. The second and third panels depict a furry_male wearing a jacket and sunglasses, riding a motor_vehicle, specifically a motorcycle, with a bald character expressing clenched_teeth and a clenched_hand flying beside him. The furry_male is shouting, displayed by the exaggerated facial expression and speech_bubbles. The comic also incorporates monochrome effects and simple_background elements to establish the scenes, with a dinosaur appearing in the third panel. Additional characters include one with short_hair and facial_hair, specifically a mustache, and no_pupils shown in a floating_head style in the final panel.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"4koma, greyscale, long_hair, mole_above_mouth, halftone, two-tone_background, speech_bubble, jacket, sunglasses, motor_vehicle, motorcycle, bald, clenched_teeth, clenched_hand, flying, furry_male, shouting, text_focus, monochrome, simple_background, facial_hair, mustache, no_pupils, short_hair\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

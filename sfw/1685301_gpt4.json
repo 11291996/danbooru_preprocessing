@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjUEwLsHsNBbkaEwR5BqrVCpEi0d",
+    "object": "chat.completion",
+    "created": 1704956990,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1414,
+        "completion_tokens": 137,
+        "total_tokens": 1551
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image portrays 2girls with distinct hairstyles, one with blue_hair, short_hair, and blue_eyes, the other with red_hair, long_hair styled in a ponytail. They are both wearing mitakihara_school_uniform, with one girl in a school_uniform consisting of a white blouse with a bow and a checkered skirt, and the other in casual wear. They appear to be engaged in a jovial interaction, showing multiple_girls sharing a moment.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"casual_wear, interaction, bow\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

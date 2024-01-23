@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjY2OfyV5lumpQ25zOgWlSqeAFUf",
+    "object": "chat.completion",
+    "created": 1704957226,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1511,
+        "completion_tokens": 177,
+        "total_tokens": 1688
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls, one with brown_hair and blue_eyes, sitting sidesaddle on an alligator, a type of crocodilian, with closed_eyes and a smile, wearing a white_skirt, thigh_boots, holding a book, while another girl with purple_hair and open_mouth riding a dinosaur from_side, also having a d-pad_hair_ornament, multiple_girls are in view with one holding_book, wearing a coat with the coat_removed, boots, gauntlets and a frilled_hat with frills, the background is simple_background, white_background, moreover there are flying_sweatdrops indicating movement or surprise.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Illustration, Anime-style, Crossover, Fantasy\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTVtCNw2te19jzpWMs7Cq9WUWTV",
+    "object": "chat.completion",
+    "created": 1704956945,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1121,
+        "completion_tokens": 197,
+        "total_tokens": 1318
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"In the classroom, multiple_girls are depicted, one with dark_skin and very_long_hair is sleeping, indicated by onomatopoeic 'zzz', while another with brown_hair and a black_suit has an anger_vein showing frustration. She holds chalk near a chalkboard with a drawing and has a hand_in_pocket, indicating a casual yet displeased stance. The girl in the blue_serafuku with a sailor_collar, sailor_shirt, and school_uniform with hair_ornament, possibly a flower, is facing her, showcasing the diverse hairstyles like ponytail and short_hair among them. Additionally, hair_flower adds a decorative touch, while formal attire contrasts with the relaxed atmosphere represented by a student sleeping and class out of session.\",\n  \"RATING\" : \"SAFE\",\n  \"ADDITIONAL_TAGS\" : \"expression, school_life, student_interaction\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

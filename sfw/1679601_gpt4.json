@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTla5DaoisHEh87c0A22CLgLXiW",
+    "object": "chat.completion",
+    "created": 1704956961,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1097,
+        "completion_tokens": 173,
+        "total_tokens": 1270
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 5girls in various poses, with twin_braids, braid, bob_cut, long_hair, and very_long_hair hairstyles. Multiple_girls are dressed in a black_dress, and the scene includes an armchair, a chair, and a couch. Two girls are barefoot, and one with blue_hair is lying on the couch. The girl with blonde_hair is looking_at_viewer while sitting on a chair with a bottle on the table next to her. The one with brown_hair is poking the blue_haired girl, and there is a tray carried by a girl standing. The image employs flat_color and is letterboxed.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"standing, sitting, indoor scene\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fiuqyYSxemtrCV9rDGE0YeLsz2aj",
+    "object": "chat.completion",
+    "created": 1704954796,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1441,
+        "completion_tokens": 140,
+        "total_tokens": 1581
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"2girls, one with blonde_hair, blue_eyes, and armored_dress, and the other with grey_hair, yellow_eyes, looking_at_viewer, both featuring bare_shoulders, cleavage and a head_tilt, are present in the image. The blonde_haired girl has very_long_hair with an ahoge, medium_breasts, and wears gauntlets, while the grey-haired girl shows long_hair with floating_hair. A chain is also visible in the composition.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"intimacy, affectionate pose\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

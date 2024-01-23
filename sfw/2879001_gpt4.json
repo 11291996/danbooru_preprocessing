@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjX0kadRyPjOP4b8y5aBi5L1wpzk",
+    "object": "chat.completion",
+    "created": 1704957162,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1509,
+        "completion_tokens": 218,
+        "total_tokens": 1727
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 1boy and 2girls, with the boy being dark-skinned and wearing a baseball_cap with a camouflage pattern. He has a frown and is looking from behind his shaded face, visible only from the nose down. One girl with black_hair, earrings, and squid-like features suggestive of the character_name from the Splatoon series, has an open_mouth and a grin. She is wearing a white_detached_collar and white_gloves. Her tentacle_hair has a food_on_head resembling sushi. The other girl is wearing headgear with yellow_headwear that covers her eyes, has white_gloves, a detached_collar, a black_shirt, and is grinning with fangs visible. Both girls exhibit features like pointy_ears and yellow_eyes. They are standing in a foreshortening pose, implying a dynamic, comic-style presentation.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"dynamic_pose, comic_style\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

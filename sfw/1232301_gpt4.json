@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjIMHCl52GaVMKHoUbH0FNomssMw",
+    "object": "chat.completion",
+    "created": 1704956254,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1430,
+        "completion_tokens": 202,
+        "total_tokens": 1632
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"In the depicted image, two girls are seen sporting alternate costumes with distinct features. One has blonde hair and red eyes, while the other has white hair and similarly red eyes, suggesting they might be sisters with shared traits. Both appear to be in high spirits, indicated by their smiles and grins. Jewelry elements like earrings, bracelets, and a crystal are visible, complementing their outfits. The girls' attire includes hair ribbon, bow, ribbon, ascot, and sleeveless garments, offering a sense of style and ornate design. Notably, both characters have wings, one with bat wings, adding a fantastical element to their looks. They are wearing thighhighs, and one can see a navel, which brings attention to the detail in their alternate costumes. They both have short hair, though their hairstyles differ.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Anime, Fantasy, Artwork\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

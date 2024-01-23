@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjQb0gZt2LMrYUlFu2wSo7Z1OS2s",
+    "object": "chat.completion",
+    "created": 1704956765,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1153,
+        "completion_tokens": 243,
+        "total_tokens": 1396
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 3girls with prominent features such as cat_ears, twin_braids, long_hair, short_hair, green_hair, pink_hair, red_hair, and different eye colors - green_eyes, red_eyes. Notable clothing characteristics include halterneck, see-through, hair_bow, and hat, with specific details like argyle_background, blush_stickers, bow, lace, heart, ribbon, hat_ribbon. The chibi minigirl with green_hair and the mini_person with pink_hair exhibit multiple_girls and are visibly small in size. There is also a differentiation in breast size evident in the characters classified as breasts, small_breasts, and cleavage. The physical traits such as hairband, braid, extra_ears, multiple_tails, cat_tail, tail, midriff, bare_shoulders, navel, and adapted_costume are present. The characters' expressions include light_smile and jitome.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Multiple characters with anthropomorphic features, Japanese text\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

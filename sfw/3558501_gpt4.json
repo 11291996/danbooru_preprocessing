@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjIh2Uh0csr2kkDYqBBx3ixiUSTh",
+    "object": "chat.completion",
+    "created": 1704956275,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1156,
+        "completion_tokens": 287,
+        "total_tokens": 1443
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image portrays a cheerful scene with two girls in a tavern setting. The multiple girls, tagged as 2girls, display animal-like features such as dog_ears, dog_tail, and sharp_teeth indicating that they are dog_girl and chameleon_girl. Both have armor and wear black_gloves complimenting their fantasy attire. One with white_hair exhibits a grin and clenched_teeth as she eagerly looks at the viewer. The other girl with green_hair and a single_braid topped with beads and other hair ornaments conveys a smile with red_eyes and slit_pupils. They are surrounded by an abundance of food, including boned_meat, bread, and food_on_face, suggesting a jovial eating scene. The presence of a chandelier and candles contributes to the cozy indoors atmosphere. The dog girl is adorned with a hairband, braid, side_braid, and hair_between_eyes accentuating her cheerful expression. The setting features tavern elements such as coin, rope, bracer, and a hair_ornament. The girls' sharp_teeth, v-shaped_eyebrows, and tail, alongside tavern-themed items, create a whimsical fantasy depiction.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"fantasy, cheerful, joy, whimsical depiction, fantasy attire\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

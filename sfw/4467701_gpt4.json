@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjY037tK31OKxeayFj06Poh8v6RU",
+    "object": "chat.completion",
+    "created": 1704957224,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1147,
+        "completion_tokens": 272,
+        "total_tokens": 1419
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"In the image, a chibi character with brown_hair and brown_eyes is wearing a japanese_clothes, specifically a blue_hakama and hakama_skirt paired with black_legwear. The character is holding a microphone and exhibiting a singing pose with an open_mouth, which suggests they are performing. There is motion_lines around the character, enhancing the dynamic feel of the singing action. Along with this, musical_note symbols such as beamed_eighth_notes, eighth_note, half_note, and quarter_note are floating in the air, adding to the musical theme. The character also has a side_ponytail and hair_between_eyes. A blush on the face contributes to the expressive charm, and the character seems to be singing happily as indicated by the smile. There's also a speech_bubble and thought_bubble included in the artwork. This character is also depicted as a mini_person or minigirl, standing beside what seems to be a larger, obscured figure in a military_uniform or naval_uniform, suggested by the visible part of the clothing. There is an artist_name and artist_logo present in the image, hinting at the creator's signature.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"chibi, expressive, miniature\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

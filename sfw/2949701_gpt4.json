@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjZIvlQZ1H9pb1Jq7yGbIBiiwnD9",
+    "object": "chat.completion",
+    "created": 1704957304,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1489,
+        "completion_tokens": 283,
+        "total_tokens": 1772
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The greyscale monochrome image showcases 3girls with varying expressions such as closed_mouth, open_mouth, and looking_up. Each girl exhibits unique features like animal_ears, rabbit_ears, fox_tail, and multiple_tails. They are adorned in distinct clothing that includes a dress, shirt, sailor_collar, sailor_hat, shorts, and shoes. Accessories like a neckerchief, hat characterised with an anchor_symbol, and a mob cap contribute to their individual looks. They appear to be engaging in an eating activity, one holding dango and being in the act of holding_food with her hand_up, while the other is holding a ladle or hishaku. The wide_sleeves and hands_in_opposite_sleeves of their garments, along with one character's hair_over_one_eye, add to their traditional appearance. The artist has included his signature as artist_name, and there's an element of traditional_media in the artwork. A simple_background supports the central focus on the characters. The tabard and animal_hat, along with a specific wagashi, are included in the image. There's an ofuda present as well, although its significance in the drawing is not mentioned among the given tags.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"artist_signature, traditional_artwork\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

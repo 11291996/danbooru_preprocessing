@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTSzV2GK2823UqqgW4yYlxUYGN0",
+    "object": "chat.completion",
+    "created": 1704956942,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1440,
+        "completion_tokens": 155,
+        "total_tokens": 1595
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls who are magical_girl characters from the copyright_name Puella Magi Madoka Magica. The girl with blue_hair, blue_eyes, and a dress with boots, gloves, and a cape is holding a sword, while the girl with red_hair, red_eyes, and a ponytail, dressed in a skirt and thighhighs with a bow and hair_bow, wields a spear. Both characters exhibit long_hair, smiles, and an open_mouth, creating an energetic atmosphere complemented by gears in the background alongside english_text.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"dynamic_pose, promotional_artwork\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

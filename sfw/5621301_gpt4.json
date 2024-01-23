@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjN1BsWGOyffxYbjchcONj3odSRU",
+    "object": "chat.completion",
+    "created": 1704956543,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1104,
+        "completion_tokens": 155,
+        "total_tokens": 1259
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image portrays a 1girl standing indoors, featuring a solo character with black_hair styled into low_twintails. She has green_eyes and exhibits parted_lips. The girl is wearing an aqua_one-piece_swimsuit categorized as a competition_swimsuit that adheres to the cowboy_shot style. The image includes a blue_sky with cloud which suggests an indoor swimming facility with a transparent roof. Decorative elements like a string_of_flags, pennant, and streamers are visible, indicating a festive or competitive atmosphere. The swimsuit hints at small_breasts.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Indoor swimming facility, transparent roof\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

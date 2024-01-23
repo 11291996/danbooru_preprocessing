@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fixuUJyrP6oi3G8FFK2VAO3gTDOJ",
+    "object": "chat.completion",
+    "created": 1704954986,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1088,
+        "completion_tokens": 121,
+        "total_tokens": 1209
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The sketch depicts a solo 1girl with black_hair, black_eyes, and short_hair, wearing an open_jacket, pants, and a scarf, indicative of a paradis_military_uniform. She adopts an expressionless stance in a cowboy_shot, dual_wielding swords, and is depicted holding_weapon in each hand. The drawing includes an outside_border with streaks that complement the composition.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"sketch, dual_wielding, holding_sword\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

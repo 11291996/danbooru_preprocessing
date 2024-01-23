@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTX6DVlH7yctWXEalgpybPQpI3t",
+    "object": "chat.completion",
+    "created": 1704956947,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1833,
+        "completion_tokens": 195,
+        "total_tokens": 2028
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts a 1girl with black_hair and purple_eyes, who is wearing a kamiyama_high_school_uniform_(hyouka) that consists of a white_shirt with a black_sailor_collar, blue_neckwear, and a black_skirt. Also notable are sleeve_cuffs and a pleated_skirt. The girl is sitting on_desk with her legs_together, and she exhibits a smile and blush on her face while looking_at_viewer. She is holding her long_hair and is captured in a cowboy_shot against a simple_background with chromatic_aberration present.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"thigh_gap, sidelocks, open_mouth, long_sleeves, serafuku, school_uniform, sitting, standing, solo, holding_hair, medium_breasts, blunt_bangs\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

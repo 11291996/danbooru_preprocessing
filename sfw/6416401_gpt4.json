@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fiuyV1zeYlDi4cfp78vD3o7m9GM2",
+    "object": "chat.completion",
+    "created": 1704954804,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1454,
+        "completion_tokens": 129,
+        "total_tokens": 1583
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"1girl with purple_hair and purple_eyes wearing a black_dress is dancing with a boy in black_pants and a red_shirt. The boy has brown_eyes and semi-rimless_eyewear. There is another boy with blonde_hair and glasses in the background. The characters exhibit star-shaped_pupils and symbol_in_eye, specifically a star_(symbol).\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"symbol-shaped_pupils, dancing, mirror, mother_and_son, multiple_boys, reincarnation\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

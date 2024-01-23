@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjSOgGR3m1Iy6jveNd7JUhAzNx27",
+    "object": "chat.completion",
+    "created": 1704956876,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1421,
+        "completion_tokens": 118,
+        "total_tokens": 1539
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features a 1boy and 1girl couple with character_name from copyright_name. The boy, with green_eyes and white_hair, looks at the viewer, exhibiting a hetero dynamic with the girl. The girl has pink_hair and blue_eyes, and together they are surrounded by elements like flower, red_flower, red_rose, and rose which contribute to the romantic atmosphere of the scene.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"romantic atmosphere\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

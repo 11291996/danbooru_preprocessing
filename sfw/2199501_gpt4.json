@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYKEJqG4nPWbgGnzWnKn5bROv2t",
+    "object": "chat.completion",
+    "created": 1704957244,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1469,
+        "completion_tokens": 164,
+        "total_tokens": 1633
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls with long_hair and multiple_girls; one wearing a witch_hat and hat_bow, carrying a sack over_shoulder, adorned with hairclip and hair_tubes, exhibiting a grin and smile while looking_at_viewer in front of the east_asian_architecture of the Hakurei_Shrine surrounded by cherry_blossoms, petals flowing in the air. The other girl has short_sleeves, a single_braid with bow and hair_ornament, and an ascot, beside her with a braid and puffy_sleeves. The mountain serves as the backdrop.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime_style, outdoors, daylight, expressive\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

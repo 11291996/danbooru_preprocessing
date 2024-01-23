@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fivYWs71LNBhEmZJsEVCORtzn6xk",
+    "object": "chat.completion",
+    "created": 1704954840,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1061,
+        "completion_tokens": 81,
+        "total_tokens": 1142
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The greyscale monochrome comic depicts multiple_girls in school_uniform, engaging in a dialogue while one of them holds a cup. The food presented shows a realistic drawing style common in comics, contributing to the scene's school setting.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"dialogue, school setting\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

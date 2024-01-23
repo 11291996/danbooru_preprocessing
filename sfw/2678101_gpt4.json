@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjUv5DZNPorfJL0BKlwKEz1XY79z",
+    "object": "chat.completion",
+    "created": 1704957033,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1114,
+        "completion_tokens": 206,
+        "total_tokens": 1320
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n\"RESPONSE\" : \"In this monochrome image, there is a comic parody featuring multiple girls, specifically 2girls, one with animal_ears, short_hair and an open_mouth, while the other, also with an open mouth, wears a hat with a hat_feather. The girl with animal_ears exhibits short wavy_hair and is laughing, characterized by the kimoi_girls_(meme) style. The girl wearing the hat also sports a helmet, referred to as a pith_helmet. Both girls have hair_between_eyes. They are surrounded by serval_print, ben-day_dots and screentones that effectuate a halftone_background. Both are wearing a shirt, and there's a bag and a backpack visible, though these accessories are not the focus of the image. A tail is associated with the girl having animal ears.\",\n\"RATING\" : \"SAFE\",\n\"ADDITIONAL_TAGS\" : \"Expression, Accessories\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

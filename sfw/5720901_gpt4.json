@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fizx2ri19OnSMokB5nAqFB5DngWV",
+    "object": "chat.completion",
+    "created": 1704955113,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1200,
+        "completion_tokens": 297,
+        "total_tokens": 1497
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts 2girls standing on a checkered_floor. One girl has red_hair, closed_eyes, and a grin with her tongue_out, wearing a black_jacket, black_shirt, red_skirt, and asymmetric footwear featuring red_footwear and blue_footwear. The other girl with very_long_hair, blonde_hair, open_mouth, and purple_eyes, wears a polka_dot_headwear, a jester_cap, an off-shoulder_shirt exposing bare_shoulders, a green_skirt, american_flag_legwear, and mismatched_footwear. They are both in miniskirts and exhibit a joyful expression with a smile and looking_at_viewer. The red-haired girl's jacket is adorned with a black_collar, and she has a star_(symbol) on her shirt, while the blonde girl's skirt is multicolored_clothes with black_socks. They both wear long_sleeves; one has a hat, and the other a black_headwear, which is the jester_cap. Additionally, we can see fingernails, a collar, pointy_ears, stars, multiple_girls, and teeth within the scene. There is striped, and pantyhose clothing present as well.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"joyful_expression, joyful, pointy_ears, stars\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

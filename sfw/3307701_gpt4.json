@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fiy946fPTeiZEgl6OUDEMJpofrRS",
+    "object": "chat.completion",
+    "created": 1704955001,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1092,
+        "completion_tokens": 142,
+        "total_tokens": 1234
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts a comic featuring 1boy and multiple_girls sitting around a kotatsu. The girls have distinctive features such as animal_ears, fox_ears, fox_tail, horns, and yellow_eyes, with one sporting aqua_hair and another with twintails held together by a hairband. They're interacting with technology like a computer, laptop, and monitor. The boy is wearing glasses and shorts. All characters are exhibiting emotions ranging from smile to sweatdrop and open_mouth expressions.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \":d, comic, sitting, table, tail\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

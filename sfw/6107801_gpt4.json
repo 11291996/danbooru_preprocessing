@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTwCysY5wiiyYNjANd4iw0cDnWh",
+    "object": "chat.completion",
+    "created": 1704956972,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1110,
+        "completion_tokens": 188,
+        "total_tokens": 1298
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"The image depicts multiple_boys and 1girl, all dressed in stylish formal attire, including black_suit and a frilled_dress. The boys have a variety of hair colors such as blonde_hair, blue_hair, green_hair, purple_hair, and white_hair, while the girl has long_hair with orange_eyes. Several characters are adorned with jewelry such as earrings. The siblings are portrayed within a night setting under a starry_sky, with the sky featuring a multitude of stars and the night_sky is clearly visible. English_text appears in the image, spelling out 'Happy Birthday', suggesting a celebratory event. The characters exhibit expressions of happiness, emphasized by the presence of a smile on their faces.\",\n  \"RATING\" : \"SAFE\",\n  \"ADDITIONAL_TAGS\" : \"celebration, illustration\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

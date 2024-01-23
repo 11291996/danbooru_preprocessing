@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fiuDxaXnvVCojO4MuEDHN7czaGau",
+    "object": "chat.completion",
+    "created": 1704954757,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1126,
+        "completion_tokens": 225,
+        "total_tokens": 1351
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"The image portrays 2girls with animal_ears and tails, one displaying beaver_ears and beaver_tail, indicative of chibi character design. Both girls are full_body depicted, with one having hand_on_own_hip. The girl with beaver_ears wears a school_uniform including a pleated_skirt, whereas the other girl sports bike_shorts beneath shorts. The attire includes gloves, one with elbow_gloves, and thighhighs. Both characters exhibit hair_ornament, with one having hairclip and antenna_hair. They are standing against a simple_background highlighted by a pink_background with polka_dot elements. The characters are looking_at_viewer, with open_mouth expressions, and smiles. One girl's outfit features a fur_collar, and the other is wearing a jacket. Medium_breasts are suggested, and cleavage is visible on one girl, while the other has navel exposure.\",\n  \"RATING\" : \"SAFE\",\n  \"ADDITIONAL_TAGS\" : [\"cute\", \"anime_style\"]\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

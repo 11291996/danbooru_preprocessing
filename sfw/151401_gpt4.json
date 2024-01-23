@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTrzBJcPJd6pMeCWDHA82lc5hq0",
+    "object": "chat.completion",
+    "created": 1704956967,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1105,
+        "completion_tokens": 24,
+        "total_tokens": 1129
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"PHOTO\",\n  \"RATING\": \"EXPLICIT\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

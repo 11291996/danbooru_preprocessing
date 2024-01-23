@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjWEvvw5D8Yf8GhwSpfFOHJwBuxD",
+    "object": "chat.completion",
+    "created": 1704957114,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1163,
+        "completion_tokens": 256,
+        "total_tokens": 1419
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features multiple_girls, with one performing a kissing_cheek on the other. The two girls exhibit distinctive features, such as blonde_hair and blue_hair, respectively. The girl with blonde_hair is adorned with a white_headwear, featuring a hat_ribbon, and is wearing a red_vest over a white_shirt with puffy_short_sleeves. The mini_person, or minigirl, with blue_hair is wearing a blue_vest and blue_skirt, complemented by green_footwear. The background is checkered_background, and both characters have ahoge. The blonde_hair girl has red_eyes, while the blue_hair girl's eyes are not visible. Light_smile can be seen on the face of the girl with red_eyes, and there are light_particles in the surrounding area. There are also elements like a yellow_ascot, a bow, and petals included in the image.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"puffy_sleeves, hair_bow, mob_cap, socks, white_legwear, hair_between_eyes, one_eye_closed, one_side_up, standing, wings\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

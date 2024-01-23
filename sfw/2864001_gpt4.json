@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTjS4aUCXjDLVudFu5qaKz7kHiH",
+    "object": "chat.completion",
+    "created": 1704956959,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1154,
+        "completion_tokens": 212,
+        "total_tokens": 1366
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"The image depicts multiple views of a character with pink hair and yellow eyes. In one view, she is looking at the viewer with an open mouth and parted lips while wearing a bikini under unbuttoned clothes, specifically a dress shirt with sleeves rolled up, showcasing bare shoulders and cleavage. The bikini is black with a micro bikini top and a side-tie bikini bottom. There is a focus on the character's navel, hips, and thighs. Her ponytail is accented with a hair bow that is pink and striped, matching the striped bowtie around her collarbone. Another view shows the character in the same outfit, looking to the side with a blush on her cheeks and a subtle smile. The character's medium breasts are partially visible, emphasizing the swimsuit's design. The background is simple and white, drawing attention to the character.\",\n  \"RATING\" : \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\" : \"Anime-style, Female Character, Digital Art\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

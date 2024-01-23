@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjUkZAEOsz7KwCbYOmDtIj2on0bV",
+    "object": "chat.completion",
+    "created": 1704957022,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1297,
+        "completion_tokens": 283,
+        "total_tokens": 1580
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"2girls immersed in the yuletide spirit, adjusting_clothes and smiling, present a Christmas tableau with multiple_tails and animal_ears, namely cat_ears. One girl is dressed in a santa_costume complete with red_dress, red_gloves, and santa_hat, leaning_on_person next to her. The other, in a complementary christmas_tree_costume, has fur-trimmed_dress elements, such as fur-trimmed_boots, fur-trimmed_gloves, and fur-trimmed_headwear. The red_hair and black_hair of the girls are adorned with baubles, such as a hair_bell and hair_bow, showing red_bow, white_bow, yellow_bow, and green_bow. Amidst the sparkle and snowflakes, gift boxes surround them, celebrating the essence of gift-giving. Their expressions range from a subtle smile to an open_mouth, exuding a sense of joy and looking_at_viewer with orange_eyes and red_eyes. Elbow_gloves, high_heels, and garter_straps add elegance to their festive attire. A backdrop of lens_flare and sparkle accentuates the joyful atmosphere.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"christmas, festive, joy\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

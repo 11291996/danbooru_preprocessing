@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjT3MruuwOVweu1IdYxLy4nUJ3rt",
+    "object": "chat.completion",
+    "created": 1704956917,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1422,
+        "completion_tokens": 162,
+        "total_tokens": 1584
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls engaged in a wrestling match in a wrestling_ring. The girl with brown_hair and a mask is executing a flying_body_attack on her opponent. Her attire consists of boots, elbow_pads, and a wrestling_outfit that reveals her midriff. The girl with blonde_hair is on the receiving end, showing small_breasts in her tight wrestling_outfit, contrasting with her opponent's huge_breasts. Both characters are exhibiting expressions of intensity and concentration, and there's visible sweat on the blonde girl's face, indicating the physical effort involved in the match.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"intensity, effort, tight_outfit, facial_expression\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

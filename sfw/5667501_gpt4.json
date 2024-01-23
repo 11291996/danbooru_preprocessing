@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjUbeA5wcRLR4byaczu5LIDr3nvE",
+    "object": "chat.completion",
+    "created": 1704957013,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1536,
+        "completion_tokens": 298,
+        "total_tokens": 1834
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"The image features 2girls with one exhibiting an ahoge and the other with twintails; the girl with ahoge is wearing a bikini, and also shown are a black_bikini, highleg, black_choker, black_hairband, halo, and blush. The girl with twintails wears glasses placed on her head, known as eyewear_on_head, a hair_ribbon, long_hair, and multiple ribbons. Both girls show various expressions: closed_mouth, one_eye_closed, looking_at_viewer, parted_lips, and a blush can be seen on their faces, suggesting a range of emotions. The twintailed girl's attire includes a black_skirt, gloves, red_gloves, red_pantyhose, and boots with black_footwear. Additionally captured are contrasting skin tones; dark-skinned_female and dark_skin against small_breasts and large_breasts with breast_press, skindentation, and wet_clothes indicating recent water activity. The sitting pose of the girl in bikini with grey_hair, yellow_eyes, and very_long_hair, alongside the red_eyes, orange_hair, neck_ribbon, red_ribbon, and asymmetrical_docking create a vivid and dynamic composition.\",\n  \"RATING\" : \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\" : \"dynamic composition, emotional range, water activity\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

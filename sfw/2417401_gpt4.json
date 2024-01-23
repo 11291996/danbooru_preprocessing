@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYgNdoy62N8xeuz3FzFGqSKfQzI",
+    "object": "chat.completion",
+    "created": 1704957266,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1504,
+        "completion_tokens": 197,
+        "total_tokens": 1701
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 3girls indoors, where one with blonde_hair, purple_eyes, and wearing a purple_dress appears surprised, covering_mouth with hands, as another with black_headwear, a hat with a white_ribbon, red_eyes, and in a dress with puffy_short_sleeves and a red_necktie has hand_on_another's_hip and the other hand on the blonde_haired girl's face. The maid in the background, characterized by fairy_wings, maid_headdress also known as a mob_cap, and yellow_eyes, is looking at the other two with her hand covering her mouth in a gesture suggesting surprise or blush. She wears an apron over her dress, signifying a typical maid outfit. An open_door is visible.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Expression_of_surprise, Interaction, Inside\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjT9Gs11BT6V2M1sMwHcjm813iOd",
+    "object": "chat.completion",
+    "created": 1704956923,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 590,
+        "completion_tokens": 135,
+        "total_tokens": 725
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features a solo 1girl who is a virtual_youtuber. She is depicted from a cowboy_shot angle, with light_brown_hair and short_hair, looking_at_viewer. Her attire includes a white_shirt, black_skirt, and a suspender_skirt with suspenders. She is also wearing a collared_shirt and a hat adorned with a white_rose and flower, possibly a rose. The girl is shown with an open_mouth expression and a distinguishing mole_under_eye.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime_style\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

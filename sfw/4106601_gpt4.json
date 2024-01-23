@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjX94PnYOiWFrreQkoHub0w7yXmL",
+    "object": "chat.completion",
+    "created": 1704957171,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1084,
+        "completion_tokens": 145,
+        "total_tokens": 1229
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts 1boy and 1girl. The boy appears embarrassed and is executing a wedgie while the girl, characterized with animal_ears, blonde_hair, brown_eyes, and wavy_mouth, displays an expression that mixes surprise with discomfort. The girl's attire includes armor, a breastplate, gauntlets, shoulder_armor, and bike_shorts, which accentuate the awkwardness of the situation. Her bare_back is partially visible. The boy, with brown_hair, is also dressed in armor.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"humor, playful_interaction, surprise\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

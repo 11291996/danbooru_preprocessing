@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fisPopBj3yWkydwMruohqp3cQ332",
+    "object": "chat.completion",
+    "created": 1704954645,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 735,
+        "completion_tokens": 142,
+        "total_tokens": 877
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"The comic depicts a monochrome 4koma format with 1girl, 2boys, and the appearance of a duel_monster. Greyscale is used to illustrate the scenes without color. Fangs are visible, suggesting an aggressive or comical depiction. There is a panel showing implied_pantyshot, as well as blood represented in the form of a nosebleed, which is a common trope in manga for humor or embarrassment. Finally, a wrench is included as part of the narrative.\",\n  \"RATING\" : \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\" : \"humor, manga_tropes\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

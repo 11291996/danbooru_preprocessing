@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjQTS6k3pvjj7taur94ZrC8rgefx",
+    "object": "chat.completion",
+    "created": 1704956757,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1503,
+        "completion_tokens": 220,
+        "total_tokens": 1723
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image is a monochrome comic frame featuring a dark-skinned female with very long hair, fur collar, and a highleg leotard accented with crescent_print and rabbit_ears, suggesting she is a rabbit_girl character. She also has a tail, visible as tail_through_clothes, and seems to be in a state of anger, as indicated by the anger_vein and shouting expression. Additionally, she has wings detailed on her back. There are multiple_boys shown: one with medium_hair, gloves, and a mask, possibly depicting a superhero character, has a smile on his face; the other with short_hair, muscular build, and biceps plainly in view, exhibits a grin. Motion_lines around the characters indicate some dynamic action. The image has a greyscale color scheme and includes elements like cellphone, smartphone, and other details suggesting a modern setting.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"dynamic action, modern setting, greyscale color scheme\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjT99l1M2tSpdE25VqttV1a4h7ZP",
+    "object": "chat.completion",
+    "created": 1704956923,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1458,
+        "completion_tokens": 198,
+        "total_tokens": 1656
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"The image depicts a solo 1girl wearing a green_dress with a halterneck design and black_shorts. She has brown_hair styled into a ponytail with a yellow_bow accessory, as well as horns, suggesting a fantasy or mythological theme. Her brown_eyes are looking_at_viewer, complemented by a smile. The character sports black_gloves that are fingerless, along with detached_sleeves that are white_sleeves and have a sleeve_bow. Earrings and other jewelry accentuate her outfit. Emphasized is her large_breasts and some cleavage, framed by the design of her dress. A simple_background with a white_background is present, focusing attention on the character. She is depicted from the waist up in a cowboy_shot.\",\n  \"RATING\" : \"SAFE\",\n  \"ADDITIONAL_TAGS\" : \"fantasy, mythological theme\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

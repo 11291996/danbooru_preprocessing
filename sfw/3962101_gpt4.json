@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjV8KCQvX2Of0yT6yZ4UfRJNs3Xb",
+    "object": "chat.completion",
+    "created": 1704957046,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1549,
+        "completion_tokens": 295,
+        "total_tokens": 1844
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"RESPONSE\": \"The image features 3girls standing against a white_background, adorned with autumn_leaves. From left to right, the first girl has white_hair, wolf_ears, grey_eyes, and is wearing a white_shirt with puffy_short_sleeves, a black_skirt, and black_legwear. She also has noticeable animal_ears, feathered_wings, and a tokin_hat. The second girl in the center with black_hair, red_eyes, a camera, is holding_camera, and wearing a shirt with puffy_sleeves, a petticoat underneath her black_skirt, and geta, specifically tengu-geta. The third girl with brown_hair, hair_between_eyes, is holding_phone, has a smartphone, smiling, and wearing a checkered_skirt, black_bow, and kneehighs. They each have additional details like a black_bowtie, black_necktie, bowtie, ribbon, black_wings, and socks, contributing to the charming autumnal theme.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"cowboy_shot, long_hair, medium_breasts, multiple_girls, necktie, one_eye_closed, pom_pom_(clothes), purple_ribbon, purple_skirt, short_hair, short_sleeves, smile, standing, tassel\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

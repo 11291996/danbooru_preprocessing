@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjO0ljKBj32FnmhGsBOTLqVce26w",
+    "object": "chat.completion",
+    "created": 1704956604,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1117,
+        "completion_tokens": 258,
+        "total_tokens": 1375
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts an outdoor street scene with 4girls and multiple_boys in what appears to be a market atmosphere. Some individuals are donning school_uniform, specifically a white_shirt paired with a black_skirt or black_footwear and socks, which suggests they might be students. They are depicted with school_bag items, indicating that they may be either heading to or returning from school. Additionally, the setting includes various elements of chinese_clothes, as well as a mix of modern and traditional attire such as a red_dress and a china_dress. Faceless_female and faceless_male figures can be seen throughout the image, implying a focus on the scene rather than individuals. Food items like baozi and fruit are visible, adding to the market vibe of the street. The scene also features vehicles like a bicycle and rickshaw, while power_lines stretching across the vanishing_point in the image add depth to the scenery. A sign is noticeable in the frame, contributing to the urban feel. The overall mood of the image is enhanced by the day time lighting.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"urban, market, students, depth, traditional and modern attire\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

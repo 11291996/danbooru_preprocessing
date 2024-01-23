@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjT3nfgQquCr6i7gL7lEU8KRZB8o",
+    "object": "chat.completion",
+    "created": 1704956917,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1112,
+        "completion_tokens": 172,
+        "total_tokens": 1284
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts a moment between 2girls in an indoor kitchen setting, where one with blonde_hair and another with black_hair are engaged in an intimate hug and an imminent_kiss, portraying a yuri theme. The girl with blonde_hair is wearing a sweater_dress with raglan_sleeves and colored_eyelashes, while the other has short_hair, closed_eyes, and is wearing a dress with a sweater, highlighted by the collarbone and swept_bangs. They are surrounded by elements such as fruit, with an orange_(fruit) in hand, a pitcher_(container), and food, with shorts and short_shorts also being part of the attire.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"emotion, romantic\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

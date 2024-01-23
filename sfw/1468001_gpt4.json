@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjMYlEaAJPJLmYuiOtJbpwYXosJc",
+    "object": "chat.completion",
+    "created": 1704956514,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1450,
+        "completion_tokens": 164,
+        "total_tokens": 1614
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts 2girls, one with blonde_hair, a single_braid, blue_eyes, and wearing a black_dress with short_sleeves and a waist_apron, while sitting. The other, mostly obscured, has long_sleeves, a mob_cap, and fox_tail, hinting at a kitsune motif, which is further emphasized by multiple_tails. Both are smiling and exemplify a theme likely inspired by kyuubi, featuring elements such as a torii and wind_chime, as well as no headwear visible on the blonde girl and a notably absent animal_hat.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"obscured_face, sitting_pose, traditional_themed\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjWtmO0DCT0BGlgBkO62BlN9wTlc",
+    "object": "chat.completion",
+    "created": 1704957155,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1439,
+        "completion_tokens": 166,
+        "total_tokens": 1605
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"The image features 2girls in a comic style with one displaying an open_mouth, smile, and closed_eyes, while the other has blue_eyes and a hairband. Both characters have black_hair and are wearing a school_uniform typical of the serafuku style. The girl with her eyes closed has a braid, and the one with blue_eyes appears to have a ponytail. Symbol-shaped_pupils like heart and heart-shaped_pupils are shown, and they express emotions with ^_^. Additionally, there's clothes_writing and multiple_girls shown with one girl in the background having twin_braids.\",\n  \"RATING\" : \"SAFE\",\n  \"ADDITIONAL_TAGS\" : \"Anime, Manga\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

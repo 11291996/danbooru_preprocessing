@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjXTvNFBc2LNjMsulOBSvSASnnER",
+    "object": "chat.completion",
+    "created": 1704957191,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1142,
+        "completion_tokens": 197,
+        "total_tokens": 1339
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts 2girls dressed in halloween_costume, with one wearing a witch_hat. They both exhibit absurdly_long_hair and very_long_hair, one with purple_hair and purple_eyes, the other with heterochromia, having green_eyes and red_eyes. Their dresses have a side_slit, the witch's dress being a strapless_dress. They are sporting black_footwear and boots, and the witch's costume includes a black_cape, while both have bare_shoulders. They have medium_breasts and cleavage is visible. They are also equipped with gloves; one has brown_gloves and the other detached_sleeves. They are holding_weapon, specifically a scythe which is a huge_weapon. The simple_background is white_background.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime_style, fantasy_costume\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

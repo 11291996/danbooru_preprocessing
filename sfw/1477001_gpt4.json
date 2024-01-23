@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjXdMPyL2KnceTbqF6bNazQPFTIq",
+    "object": "chat.completion",
+    "created": 1704957201,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1158,
+        "completion_tokens": 251,
+        "total_tokens": 1409
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"In the image, two girls are featured enjoying ice cream. One with blonde hair, green eyes, and a pink bow is holding a double scoop ice cream cone and feeding the other girl, depicted with brown hair, brown eyes, a ponytail, and a hair ribbon. Both are wearing a school uniform with a plaid skirt, short sleeves, and black kneehighs. The blonde girl is showing an expression denoted by ':3', while the brown-haired girl has an open mouth, ready to be fed the ice cream. Accents like a hair bell, jingle bell, and hair ornament embellish their hairstyles. A cat with a bell on its collar and a spoon are among the small details included. Behind them, a striped background of diagonal stripes provides a cheerful setting. English text states 'HAPPY SUMMER ICECREAM' and 'LITTLE SISTERS! FAN BOOK', suggesting a festive and light-hearted theme.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"brown eyes, cat, collar, English text, expression ':3', festive, heart, light-hearted, pink bow, ponytail, sitting, spoon\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjM44Gh2K6S6hCjTGWNlraPketAi",
+    "object": "chat.completion",
+    "created": 1704956484,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1481,
+        "completion_tokens": 234,
+        "total_tokens": 1715
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 3girls from 25-ji_nightcord_de._(project_sekai) with distinct hairstyles such as long_hair, short_hair, ponytail, and side_ponytail, embellished with accessories like animal_ear_headphones, fake_animal_ears, cat_ears, and earrings. The girls display a range of expressions including blush, smile, closed_mouth, open_mouth, expressionless, and androgynous looks. The diverse eye colors include blue_eyes, brown_eyes, and pink_eyes, with one character forming a heart_hands and finger_heart gesture, conveying a sense of affection. The jewelry adds a touch of elegance while the heart shapes in their poses and accessories symbolize love. The dominant hair colors are grey_hair, brown_hair, and pink_hair, complemented by a purple_hair shade, contributing to the image's colorful and vibrant aesthetic.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Colorful, Vibrant, Affectionate Poses\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

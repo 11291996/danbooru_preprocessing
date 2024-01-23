@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTALbK0Godp5pHznXKVBgVAvDK1",
+    "object": "chat.completion",
+    "created": 1704956924,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 768,
+        "completion_tokens": 177,
+        "total_tokens": 945
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image is a monochrome traditional_media sketch of 2girls standing together. They both exhibit a blush on their cheeks, and one shows a fang_out implying she might be a vampire. Both characters have short_hair and are dressed in dresses with puffy_short_sleeves, and one has an ascot. Accessories like wrist_cuffs and crystal elements are discernible. One girl is wearing ankle_boots, while the other has boots. They have palms_together as if mirroring each other, and behind them, there are demon_wings and wings depicted, adding to the fantastical elements. A signature of the artist is visible, indicating ownership and authenticity of the artwork.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"fantasy, artist_signature, mimicking_pose\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

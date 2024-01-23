@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fivOTfJViKW0Hogg1mEj9AklCG88",
+    "object": "chat.completion",
+    "created": 1704954830,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1427,
+        "completion_tokens": 134,
+        "total_tokens": 1561
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls with black_hair and orange_hair respectively, exhibiting expressions of blush and closed_eyes on one and open_mouth on the other, suggesting a moment of joy or excitement. Both are wearing transparent_raincoats with their hoods_up, and the girl with long_hair also has earrings, adding to the jewelry element of the scene. The presence of multiple_girls and the intimate gesture of hand-holding may imply a yuri theme.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"hand-holding, joy, intimacy\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

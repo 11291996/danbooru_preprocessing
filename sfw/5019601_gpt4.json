@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fizPKd7YxZdl5dxnEKyqVZaiEUlH",
+    "object": "chat.completion",
+    "created": 1704955079,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1462,
+        "completion_tokens": 193,
+        "total_tokens": 1655
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"In the image, a girl with medium brown hair and brown eyes is sitting barefoot indoors in a wariza position, holding a Gibson Les Paul electric guitar. She wears a pink shirt with short sleeves, white pants, and a hair ornament consisting of a simple hairclip. Her closed mouth and blush suggest a moment of shyness or concentration, as she looks directly at the viewer. A plectrum is attached to the guitar's head. Clothes with writing are visible, and a paper with musical notes is on the floor. A school bag is peeking out from behind her, suggesting an after-school activity. A second girl is seen in the background, also with a school bag, peeking out through an open door, which adds to the tag multiple girls.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"music practice, indoor setting, after-school activity\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

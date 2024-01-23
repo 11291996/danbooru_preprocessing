@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTuCRBQtm1p7dxqKe3F38bCuE5z",
+    "object": "chat.completion",
+    "created": 1704956970,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1174,
+        "completion_tokens": 224,
+        "total_tokens": 1398
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image illustrates 1girl with blonde_hair and purple_eyes, wearing an american_flag_dress with star_print and asymmetrical_legwear, one leg featuring american_flag_legwear and the other striped_legwear. She accessorizes her outfit with mismatched legwear, a jester_cap featuring polka_dot, and fairy_wings. The girl is depicted in a cowboy_shot pose, with knees_together_feet_apart. She is holding_torch with pink_fire and laughing, open_mouth and smile visible. She also exhibits floating_hair and swept_bangs, while making a hand_to_own_mouth gesture. The backdrop is a dark_background with elements such as backlighting, lens_flare, and an eclipse, creating space-like atmospherics with celestial bodies and solar_panel. A hat with polka_dot_headwear, a dress with short_dress and short_sleeves, and a neck_ruff complete her attire.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"art illustration, fantasy\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

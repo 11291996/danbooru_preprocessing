@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjQt6ywMSCBMuzcNiwsCBpK62stW",
+    "object": "chat.completion",
+    "created": 1704956783,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1073,
+        "completion_tokens": 104,
+        "total_tokens": 1177
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image is a greyscale, monochrome comic featuring 2girls with one having long_hair and the other styled in a ponytail. Both are wearing mitakihara_school_uniform, implying they might be magical_girl characters. The scene depicts multiple_girls, one with short_hair, engaged in a dialogue or interaction.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"dialogue, interaction, sketch\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

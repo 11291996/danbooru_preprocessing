@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjWYQSay9E2LAo3sQjUEI7KZP4Kc",
+    "object": "chat.completion",
+    "created": 1704957134,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1488,
+        "completion_tokens": 160,
+        "total_tokens": 1648
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts multiple characters including one boy and two girls, The boy has messy white hair and is wearing glasses, jeans, and boots. One of the girls has black hair, medium breasts, is blush, and wearing pantyhose, a bracelet, jewelry, and no shoes. The other girl, a demon girl, has red hair, red eyes, a demon tail, a fang showing, and is wearing a tiara, bangle, denim, elbow gloves, high heels, and a jacket.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime style, group, red-framed eyewear, semi-rimless eyewear, under-rim eyewear, socks, track jacket\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fitU8Mli9WA2n3NAufnyXEP6aMSA",
+    "object": "chat.completion",
+    "created": 1704954712,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1118,
+        "completion_tokens": 154,
+        "total_tokens": 1272
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image showcases a solo 1girl sitting at a table, wearing a winter_uniform consisting of a black_skirt, blazer, and jacket with a plaid_skirt design. She has short_hair, brown_hair, brown_eyes, and adorns her hair with a flower hair_ornament and hairclip. A red_bow and red_bowtie complement her school_uniform, indicative of the tokiwadai_school_uniform. The girl, captured in a cowboy_shot, is looking_at_viewer with a smile, hand_on_own_face, suggestive of a candid pose.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Anime Character, Candid Pose\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

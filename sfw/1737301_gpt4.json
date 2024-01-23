@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjU5FhSP7bWIWh9yAg5SIukBa2J0",
+    "object": "chat.completion",
+    "created": 1704956981,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1185,
+        "completion_tokens": 282,
+        "total_tokens": 1467
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"This image features multiple_girls with different hair colors such as blonde_hair, blue_hair, brown_hair, orange_hair, and purple_hair, and some are wearing a hat, beanie, and bandana. They are dressed in various outfits including a crop_top, miniskirt, denim_shorts, bike_shorts, black_legwear, and boots, with one wearing a crop_top_overhang showing her midriff and navel. We see blue_eyes, brown_eyes, green_eyes, hairstyles like long_hair, short_hair, very_long_hair, side_ponytail, two_side_up, and hair decorations like bow, hat_bow, and hairclip. Some of the girls are holding_poke_ball, and a poke_ball_(basic) is also visible alongside pokemon_(creature). One girl in shorts and sleeveless_shirt has dark_skin and one in a pink_skirt and pink_footwear is showing an open_mouth expression. Another is seen with suspenders and some are exhibiting a smile, one with an outstretched_arm. The artwork includes representations of pokemon_(creature), some behind the girls, creating a playful and vibrant scene.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Artwork, Anime-style, Pok\u00e9mon\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

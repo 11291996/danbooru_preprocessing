@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTbi0PhYkgX58qKjNkAMpr6FMRr",
+    "object": "chat.completion",
+    "created": 1704956951,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1459,
+        "completion_tokens": 181,
+        "total_tokens": 1640
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls with a simple_background. One girl has light_brown_hair and yellow_eyes; she is tying_hair in a ponytail with her hands_up and has a yellow_halo above her head. She is wearing a white_shirt with short_sleeves under a track_jacket, looking_at_viewer, and exhibiting a blush on her cheeks. The other girl with pink_hair and pink_eyes is looking_at_another, wearing a white_shirt under a jacket and a black_headwear beret with a pink_halo also exhibiting blush. Both halos give them an angelic appearance, and they seem to be engaged in an amicable interaction\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"upper_body, arms_up, open_mouth, multiple_views\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

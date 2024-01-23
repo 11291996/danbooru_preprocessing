@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjThjwHeXs6wPoeF56yTw5PhTTtO",
+    "object": "chat.completion",
+    "created": 1704956957,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1109,
+        "completion_tokens": 144,
+        "total_tokens": 1253
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"2girls depicted with brown_hair and brown_eyes are showing expressions with an open_mouth and a smile. One has a ponytail, long_hair, and long_sleeves, while the other has short_hair with sleeves_past_wrists. Both wear a diaper and are aged_down, in an alternate_costume that includes hair_ornament, hairclip, and flower. They are on all_fours, one with a leash, featuring skin_fang and hair_ears. The artist_name is visible on the artwork.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"chibi_style, playful_pose\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

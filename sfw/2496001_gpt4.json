@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjUJqvuNfV3WUTnQIgkf04R2J1TZ",
+    "object": "chat.completion",
+    "created": 1704956995,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1125,
+        "completion_tokens": 198,
+        "total_tokens": 1323
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"RESPONSE\": \"The 1girl in the image is standing with a smile and a closed_mouth, her red_hair is styled with asymmetrical_hair and she has hair_between_eyes. She is wearing a band_shirt with clothes_writing which features merchandise-like design, along with black_pants. Her shirt is black with short_sleeves, and she also sports a wristband. She is adorned with a star_tattoo and facepaint that includes a star_(symbol) near her blue_eyes. The girl displays a head_tilt and is looking_at_viewer. She holds an electric_guitar, specifically a yellow Gibson_Les_Paul, while standing in a cowboy_shot pose, with the guitar's headstock over_shoulder. The girl exhibits signature elements indicating a musical or rock-themed persona.\",\n    \"RATING\": \"SAFE\",\n    \"ADDITIONAL_TAGS\": \"Anime-style artwork, musical theme\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

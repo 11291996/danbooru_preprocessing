@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjWZaxSx8Q8KahzyICXn86EJtnL9",
+    "object": "chat.completion",
+    "created": 1704957135,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1071,
+        "completion_tokens": 103,
+        "total_tokens": 1174
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image illustrates a 4koma comic with 1boy and 3girls showcased in a square_4koma format. The comic depicts humorous interactions between the characters. The girls are characterized by distinctive drill_hair and are part of a group known as eiserne_jungfrau, with multiple_girls participating in the scenes.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"humor, interaction\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

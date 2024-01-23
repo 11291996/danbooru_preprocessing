@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjMHiSmpoiGMbQMPOD1Rbdr46bht",
+    "object": "chat.completion",
+    "created": 1704956497,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1538,
+        "completion_tokens": 300,
+        "total_tokens": 1838
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image includes 1boy and 1girl who appear to be twins, both exhibiting animal characteristics with animal_ears, animal_hands depicted by paw_gloves, and a dog_tail, suggesting a dog_girl and otoko_no_ko theme influenced by the chinese_zodiac, specifically year_of_the_dog. They are wearing swimsuits; the girl is in a yellow_bikini with a side-tie_bikini_bottom, showcasing bare_shoulders, blush, blue_eyes, braid, and hair_between_eyes, while the boy is dressed in a bikini displaying arm_support, ass, bare_shoulders, black_choker, and breast contours indicative of siblings that might be embracing a cross-dressing or gender-bending scenario. The twins are situated indoors, on_floor with items like a stuffed_animal, a stuffed_rabbit, and a bowl nearby. The girl has red_hair and exhibits red_eyes, cleavage, collarbone, open_mouth, small_breasts, and a heart, while the brother shows blue_hair, puffy_sleeves, thighhighs, and white_legwear. The festive atmosphere implies a new_year celebration, looking_at_viewer, and looking_to_the_side indicates engagement with the viewer and within the scene. Emotions are conveyed through expressions such as blush and sweat. The choker, damaged clothing, cleavage, and string contribute to the scene's"
+            },
+            "finish_reason": "length",
+            "index": 0
+        }
+    ]
+}

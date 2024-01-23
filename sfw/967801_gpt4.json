@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fisqwZUpQpbMjhviMuDsQSH4ySkf",
+    "object": "chat.completion",
+    "created": 1704954672,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1450,
+        "completion_tokens": 194,
+        "total_tokens": 1644
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls, one with blonde_hair, blue_eyes, and wearing a school_uniform, hat, thighhighs, and interacting with a drawing_tablet and stylus. The other girl, exhibiting one_eye_closed, a smile, and an open_mouth, has red_hair, purple_eyes, ahoge, fang, and is wearing a hoodie with a hood, headphones, and a cat_tail, suggesting a playful, casual attire. Both girls appear to be enjoying their activity, suggested by the blush on their cheeks, smile, and overall cheerful expressions. The setting includes a keyboard_(computer) implying a digital drawing scenario. The characters are posed in a two_side_up hairstyle, which, combined with the naked_hoodie implies an anime-inspired aesthetic.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"digital_art, cheerfulness\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

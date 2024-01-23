@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjLTF6ZSqdrHTBBE7BYUqXLl1WXT",
+    "object": "chat.completion",
+    "created": 1704956447,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1079,
+        "completion_tokens": 157,
+        "total_tokens": 1236
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 3girls with distinct hair colors: black_hair, blonde_hair, and orange_hair. The character with black_hair also has horns and is wearing a bow, while the one with blonde_hair is holding a rose and has a fang visible. All characters are depicted in chibi style, with one showcasing long_hair, another with short_hair, and the third adorned with multiple types of ribbons including a hair_bow and hair_ribbon. A flower motif is present, primarily through the rose held by one girl and perhaps other floral elements in their outfits.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"chibi style, outfit details\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

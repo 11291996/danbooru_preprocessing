@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjUz1D5OGJBlupcUZJKHagCxpyBb",
+    "object": "chat.completion",
+    "created": 1704957037,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1764,
+        "completion_tokens": 204,
+        "total_tokens": 1968
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"RESPONSE\": \"The image depicts a comic strip involving 2 girls playing hide_and_seek in a playground setting with one girl exhibiting cat_ears, cat_tail and multicolored_hair, while the other girl has horns. The sequence starts with a girl with cat_ears peeking around a tree with a '?', suggesting she is searching. In the next panel, the perspective shifts to reveal another girl with horns hiding inside playground equipment, her eyes closed, and smiling, unaware that she is about to be discovered. The cat_girl spots the horned girl, indicated by an '!' and proceeds to laugh in the final panel, indicating she has successfully found her playmate during their hide_and_seek game. Both are shown with multiple_girls having animal_ears and tails, depicting them as cat_girl and the other with horns, in a playful and imaginary setting.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"sequence, playful, discovery\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

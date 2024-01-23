@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjKyViS5j4ZKjwYGrojxvEBa5GaG",
+    "object": "chat.completion",
+    "created": 1704956416,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1491,
+        "completion_tokens": 173,
+        "total_tokens": 1664
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts 2girls, one with blonde_hair, blue_eyes, and a flower hair_ornament, wearing a dress with spaghetti_strap, and the other with brown_hair, blush, and closed_eyes, wearing a blouse and a skirt. The blonde is smiling and reading, while the other is sleeping, resting her head_on_another's_shoulder. Both are wearing black_legwear, with the blonde in thighhighs and the other in pantyhose, demonstrating zettai_ryouiki. In the background, there's a window with curtains, a lampshade, and a teddy_bear along with other stuffed_animal toys.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"indoor, friendship, studying\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

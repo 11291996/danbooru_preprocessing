@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjULFqsdtG60JoQjUgUQX8qLvIRi",
+    "object": "chat.completion",
+    "created": 1704956997,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1104,
+        "completion_tokens": 179,
+        "total_tokens": 1283
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2boys engaged in a duel, one with dark_skin and abs prominently displayed, missing_tooth evident as he grimaces. He also has a tattoo, an american_flag_tattoo on his left bicep. The other boy with blonde_hair, is wearing a tank_top and camouflage_pants, with a thigh_pouch. Both have a male_focus and muscular builds, sporting boxing_gloves while capturing an intense battle moment. The dark-skinned_male is wearing shorts, while the blonde-haired male completes his combat attire with combat_boots. Dog tags are visible on the blonde male, suggesting a military theme. A sonic_boom effect adds dynamism to the scene.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"intense, dynamism, military_theme\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

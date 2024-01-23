@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjXv5ZPUFUJKwdf5DpngdUH50WDt",
+    "object": "chat.completion",
+    "created": 1704957219,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1537,
+        "completion_tokens": 283,
+        "total_tokens": 1820
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image shows a 1girl with long_hair and blue_hair wearing a crop_top, crop_top_overhang, and a blue_shirt under a white_sailor_collar part of a school_uniform known as serafuku, paired with a blue_skirt which is miniskirt and pleated. The character has details like a beret, heterochromia with one red_eye and one yellow_eye, ahoge on the top of the hat, and a blush on her cheeks. She's adorned with a yellow_bow, a plaid_bowtie, detached_sleeves that are pleated at the openings and fall past her wrists as sleeves_past_wrists, and white_thighhighs, which contribute to the zettai_ryouiki aesthetic. She is standing in a cowboy_shot, looking_at_viewer with parted_lips. We can see her armpits, bare_shoulders, collarbone, midriff showing the navel, and small_breasts, emphasizing a sense of youthful attractiveness. There is a mole_under_eye which adds a distinct feature to her face. The background is simple and white. Notably, she has bow on her shirt and the skirt features additional bows.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime_style, character\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

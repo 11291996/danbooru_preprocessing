@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjXPE7AFkwcsUJdExXMoJPECCU1D",
+    "object": "chat.completion",
+    "created": 1704957187,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1575,
+        "completion_tokens": 180,
+        "total_tokens": 1755
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image is a 4koma comic featuring multiple_girls at a festival, with expressions ranging from :d to =_=. Characters are depicted with attributes like black_hair, blue_eyes, blush, and long_hair. Some girls are wearing japanese_clothes, including kimono and yukata, with details like hair_flower and hair_ornament. The festival setting includes elements such as food, with candy and cotton_candy being consumed, and the backdrop of fireworks adds to the ambiance. One panel includes a car, specifically a toyota_prius, as part of the environment. Emotions conveyed include smile, open_mouth, and one girl showing signs of trembling or sweating.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"emotions, environment, panel\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

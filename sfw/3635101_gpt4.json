@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fivz7iH1rsYW61Kyfi85bwooBbKD",
+    "object": "chat.completion",
+    "created": 1704954867,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 742,
+        "completion_tokens": 121,
+        "total_tokens": 863
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The monochrome tegaki_draw_and_tweet comic depicts a birthday_party scene with 5girls, featuring a candle on a cake and characters in saunders_military_uniform and st._gloriana's military_uniform. Multiple_girls are seen laughing and smiling, adding a lively atmosphere to the celebration. The items such as a cup, teacup, and cart add detail to the setting.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"celebration, cake, laughter, party, comic_strip\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

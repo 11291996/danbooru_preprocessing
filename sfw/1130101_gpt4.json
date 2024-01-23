@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjJIODJXwLW6Hu4PZE4fuTXKSALS",
+    "object": "chat.completion",
+    "created": 1704956312,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1396,
+        "completion_tokens": 100,
+        "total_tokens": 1496
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n\"RESPONSE\": \"In the image, two boys in traditional japanese_clothes are portrayed with a cat. One of the 2boys appears to be kneeling while the other is seated in a more relaxed posture. The boys are adorned in colorful and elaborate japanese_clothes, and they are accompanied by a multiple_boys scene that includes a stylized cat figure.\",\n\"RATING\": \"SAFE\",\n\"ADDITIONAL_TAGS\": \"traditional_artwork, stylized, colorful\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjIUr7qtujqnLB4nFbf53DqY9dqm",
+    "object": "chat.completion",
+    "created": 1704956262,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1079,
+        "completion_tokens": 138,
+        "total_tokens": 1217
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls with animal_ears, specifically cat_ears, dressed in Christmas-themed attire. Both are exhibiting long_hair, where one shows twintails. They both possess a blush on their cheeks and blue_eyes, while the other has brown eyes, and they are looking_back with a smile. They are wearing thighhighs and striped_legwear, combined with festive red and white colors. The pose they are in is bent_over, which emphasizes their ass.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"festive attire, anime-style, bent over pose\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

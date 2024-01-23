@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fj0MKj6nIJxCXCyJF2rupFaDhNdl",
+    "object": "chat.completion",
+    "created": 1704955138,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1110,
+        "completion_tokens": 177,
+        "total_tokens": 1287
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts a 1girl and 1boy scenario, where the assertive_female, characterized by her blonde_hair, smile, and blush, is displaying dominance over the boy. She is in a white_dress with bare_shoulders, hair_between_eyes, hair_ornament, short_hair with long locks, and medium_breasts. The blonde girl with yellow_eyes is exhibiting femdom as she is trample over the boy, with her knees and armpits visible. The boy, on_one_knee, and the girl, kneeing, both engage the viewer with direct eye contact, while her sidelocks compliment her assertive stance, creating a hetero dynamic.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"dominance, eye_contact\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

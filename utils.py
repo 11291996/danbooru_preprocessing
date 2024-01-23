@@ -83,6 +83,7 @@ def filter_nsfw(filename):
         "group_sex",
         "doggystyle",
         "anal",
+        "yaoi",
         "pussy_juice",
         "missionary",
         "anus",
@@ -106,3 +107,27 @@ def filter_nsfw(filename):
     return False
 
 filter_sfw = lambda x: not filter_nsfw(x)
+
+#get all files in dir
+def get_filenames(path):
+    # get all files except extension txt
+    files = [x for x in os.listdir(path) if "txt" not in x]
+    with open("preprocessed_lineart.txt", "w") as output:
+        for file_name in files:
+            output.write(file_name + "\n")
+
+#read the highest index from the file
+def get_highest_index(path):
+    with open(path, "r") as f:
+        lines = f.readlines()
+        #remove extension
+        #get highest index
+        highest = 0
+        for file_name in lines:
+            file_name = file_name.split(".")[0]
+            if int(file_name) > highest:
+                highest = int(file_name)
+        print(highest)
+
+if __name__ == "__main__":
+    get_highest_index("preprocessed_lineart.txt")

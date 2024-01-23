@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjKqieM53Pk6wlNjFsdO5hEZoDgR",
+    "object": "chat.completion",
+    "created": 1704956408,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1486,
+        "completion_tokens": 213,
+        "total_tokens": 1699
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls wearing school_uniform, including white_shirt, collared_shirt, double-breasted jackets, and a grey_skirt with pleated_skirt detail. They have hair_ornaments like hairclip and bow, with one girl featuring a yellow_bow. They both have blushing cheeks, smile, and open_mouth expression, which convey a sense of joy or excitement. The girl with brown_hair and brown_eyes is sitting and leaning_forward in yokozuwari position, while the girl with black_hair, blue_eyes, and multicolored_eyes is kneeling in a slight lean forward as well. Both are wearing black_legwear, with socks visible, one with kneehighs showing. A heart and star_(symbol) are present to enhance the cheerful mood. The background is white_background, highlighting the characters in the image.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"cheerful, friendship\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

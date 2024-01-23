@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fj152F558nA1NSYygzJ1ibPmqESW",
+    "object": "chat.completion",
+    "created": 1704955183,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1082,
+        "completion_tokens": 100,
+        "total_tokens": 1182
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The greyscale comic depicts multiple_girls with long_hair; one has very_long_hair, another exhibits two-tone_hair. They are shown with a baozi, indicating the presence of food-related content. Both characters feature a hair_bow, while one wears a hat. The silent comic format suggests a sequence without dialogue.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"silent_sequence\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

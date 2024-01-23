@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYcd52FkM4XIWSCQz2tpBGUAUtD",
+    "object": "chat.completion",
+    "created": 1704957262,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1167,
+        "completion_tokens": 262,
+        "total_tokens": 1429
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls in what appears to be indoors. Both girls exhibit animal_ears, specifically wolf_ears, and each has a tail, suggesting they are wolf_girl characters. The girl on the left has black_hair, brown_eyes, and a scar_on_face, including a scar_across_eye, wearing a black_dress with long_sleeves, black_gloves, and thigh_boots with lace-up_boots design, holding a glass that appears to be a wine_glass. The one on the right with grey_hair, grey_eyes, is wearing a white_shirt see-through at the shoulders, a black skirt and black_footwear, holding a wine glass as well. Both girls have a closed_mouth with a leaning_forward posture while the one on the right shows a parted_lips expression and a subtle smile. The oripathy_lesion_(arknights) may indicate that they are characters from the game Arknights. Additional details include a wristband, thigh_strap, and a railing that they are near to.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Artwork, Game Characters, Arknights, Atmospheric, Evening\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

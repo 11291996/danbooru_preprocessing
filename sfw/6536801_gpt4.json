@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjURLiv439JrQZMr039SAsxHrGtV",
+    "object": "chat.completion",
+    "created": 1704957003,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1462,
+        "completion_tokens": 171,
+        "total_tokens": 1633
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls with one blonde_hair and the other black_hair, both are smiling and looking_at_viewer. The girl on the left has red_eyes and is wearing a white_shirt with off-shoulder_shirt elements, frills, and a straw_hat, while holding her hand_on_own_cheek. The girl on the right has purple_eyes, fangs, blunt_bangs, and a criss-cross_halter top along with a halterneck style shirt and a collarbone accentuated by the off_shoulder cut. Both are holding a holding_cup filled with ice. The smile of both girls enhances the cheerful atmosphere.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Daytime, Outdoors, Friendship\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

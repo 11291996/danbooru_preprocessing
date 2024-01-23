@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjTes9UkAqLS3ot2ZNI2OSqlV5WI",
+    "object": "chat.completion",
+    "created": 1704956954,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1496,
+        "completion_tokens": 188,
+        "total_tokens": 1684
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts 2girls, one with long twintails and a blue_jacket, blue_necktie, blue_vest, and a white_shirt, exhibiting a subtle smile and looking_at_viewer with one_eye_closed, holding a teacup and a spoon; the other with red_hair, a pinafore_dress, and a red_necktie, displaying an angry expression with an open_mouth and v-shaped_eyebrows. They are indoors, with elements such as a bow, ceiling, closed_mouth, hair_between_eyes, hair_ornament, hairpin, indoors, jacket, necktie, one_eye_closed, open_mouth, shirt, short_hair, sleeveless, and window visible.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"interaction, two characters, facial expression\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

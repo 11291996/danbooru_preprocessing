@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjT4ndIh5yOYoq3hTbhg3Bsl5UcS",
+    "object": "chat.completion",
+    "created": 1704956918,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1420,
+        "completion_tokens": 150,
+        "total_tokens": 1570
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n\"RESPONSE\": \"The image features 1girl and multiple_boys, specifically 2boys, all in school_uniform attire. The girl displays zettai_ryouiki, a style where thighhighs expose a portion of the legs. The scene includes a baseball_bat and hints at violence with the presence of blood. In the background, there are elements such as cloud and smoke. The characters exhibit dynamic expressions and poses, such as open_mouth and raised_eyebrows. The theme suggests an encounter with a zombie, as signified by the aggressive stance of the characters and the ominous setting.\",\n\"RATING\": \"QUESTIONABLE\",\n\"ADDITIONAL_TAGS\": \"dynamic_pose, violence, ominous_setting\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjNdbaPHWE6ycBUSV0ad1U2Ib6EG",
+    "object": "chat.completion",
+    "created": 1704956581,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1110,
+        "completion_tokens": 165,
+        "total_tokens": 1275
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts 2girls with distinct hairstyles, one with blonde_hair and twintails, the other with long green_hair. Both are wearing a gym_uniform and are engaged in a friendly hug, as the girl with blonde_hair smiles widely with green_eyes, while stretching her own_hands_together around the other girl, who clasps her own_hands together contentedly. The girl with green_hair and glasses has a calm expression and a simple_background emphasizes their upper_body. The blonde girl is wide-eyed and their open_mouth suggests laughter or excitement. The content falls under yuri subtext, highlighting a deep bond between the girls.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"glasses\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

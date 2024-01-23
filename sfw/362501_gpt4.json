@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fj0GQEb8aFUG4PwIwBodDqB3nc0T",
+    "object": "chat.completion",
+    "created": 1704955132,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 567,
+        "completion_tokens": 101,
+        "total_tokens": 668
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features two_boys; one is grinning with muscular build, brown_hair, and a spacesuit that includes gloves and a helmet, giving a two-finger_salute. The other has pointy_ears, carrying a leaf with a sweatdrop, wearing a spacesuit helmet and is depicted with a nose and smile.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"cartoon, illustration\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

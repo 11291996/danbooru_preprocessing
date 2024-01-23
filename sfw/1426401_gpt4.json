@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYBnLSRGguVZVsHSbr2LY080z8P",
+    "object": "chat.completion",
+    "created": 1704957235,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1093,
+        "completion_tokens": 137,
+        "total_tokens": 1230
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"In the image, 2girls are depicted wearing icho_private_high_school_uniform featuring a plaid skirt, indicating a school setting. One girl with blonde_hair, twintails, and blue_eyes is smiling, while the other girl with black_hair, short_hair, and an eyepatch sports a medical_eyepatch. Their poses suggest friendship or camaraderie, and both girls have long_hair, with one having her hair styled in one_side_up fashion.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"friendship, camaraderie, pose\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

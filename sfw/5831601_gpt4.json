@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjWAqnXLLeACiXwbIdcK7UmErVWg",
+    "object": "chat.completion",
+    "created": 1704957110,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1470,
+        "completion_tokens": 220,
+        "total_tokens": 1690
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The greyscale comic depicts multiple_boys and 2girls with varying expressions, such as covering_own_eyes, looking_at_another, and parted_lips. One character is adjusting_headwear, specifically a hat, and wears a jacket, vest, and belt, suggesting a pirate theme. Another character is seen with a choker, dress, and long_hair. Speech_bubble and thought_bubble elements are present, indicating dialogue and internal monologue. The setting includes outdoors, building, window, and a crane_(machine) suggestive of a harbor. In the background, a ship can be seen, with its masts extending upwards. There's also chinese_text within the speech bubbles.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"monochrome, hand_on_another's_back, speech_bubble, thought_bubble, building, window, greyscale, adjusting_clothes, glasses, shirt, short_hair, black_jacket, brass_knuckles, weapon, watercraft\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

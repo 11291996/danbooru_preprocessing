@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjVX3EbGvGSiVu6CCtcK6ftndbQZ",
+    "object": "chat.completion",
+    "created": 1704957071,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1135,
+        "completion_tokens": 206,
+        "total_tokens": 1341
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"In the image, there are 1boy and 1girl, each wearing dresses with bare_shoulders; the boy is in an orange_dress with orange_gloves and the girl is in a black_dress with black_gloves. Both characters have a black_bow and flower on their dresses. The boy has green_headwear while the girl's hat is black_headwear. They are holding_hands with interlocked_fingers, and both have a smile. The boy's hair is medium_hair and the girl's is long_hair, both with blunt_bangs. They are looking_at_viewer. The boys' orange_legwear and the girls' black_legwear are styled as thighhighs with a striped pattern. The dresses are sleeveless, and the gloves they are wearing are a combination of elbow_gloves and fingerless_gloves.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"animated\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

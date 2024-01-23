@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjT5acsHTgbhg8FfSzwPBczFGkDP",
+    "object": "chat.completion",
+    "created": 1704956919,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1068,
+        "completion_tokens": 143,
+        "total_tokens": 1211
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2boys with one exhibiting black_hair while the other shows red_hair. Both are portrayed in formal suits, with the black_hair individual also incorporating an adapted_costume that includes a distinct hat, which he has removed and is holding in his hand, shown as headwear_removed. The male_focus on this character is evident as he is prominently positioned in the image. In contrast, the multiple_boys tag suggests another male figure, who is the red_hair individual shown smoking a cigarette.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"Illustration, Two Characters, Smoking Depiction\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

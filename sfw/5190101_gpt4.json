@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjW2zHSyY4LIogD8kBSCJQZe9NV0",
+    "object": "chat.completion",
+    "created": 1704957102,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1219,
+        "completion_tokens": 207,
+        "total_tokens": 1426
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts 2girls in a confrontation, engaged in a breast_contest, their breasts are pressed together exemplifying a breast_press. One girl wears a black_dress with black_sleeves, black_ribbon, and a detached_collar, her hair is grey and styled into twintails, adorned with a two-tone_ribbon. There's also a faceoff between the two, indicated by their eye_contact and open_mouth showing teeth, one girl shows anger_vein. The other girl is in Japanese_clothes, specifically a red_kimono with an obi sash. Her black_hair is very_long, and she wears a mask on her head. Both have bare_shoulders and noticeable cleavage. They are standing with hands_up, and there are motion_lines around them, suggesting movement. The background is simple and white.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"anime style illustration\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjVG77kX3B57XUh94kqTDAmYCMxW",
+    "object": "chat.completion",
+    "created": 1704957054,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 777,
+        "completion_tokens": 148,
+        "total_tokens": 925
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"The image presents a horror-themed parody featuring multiple schoolgirls with clone-like repetition of their form. Each girl displays purple hair adorned with a hair ribbon, a school uniform consisting of a red sailor collar, and a red skirt, paired with white kneehighs socks. Their arms are held at their sides, emphasizing the uniformity of their stance. They exhibit colored skin, specifically yellow, and lack distinguishing facial features, being faceless with no eyes, nose, or mouth. A simple red background isolates and accentuates the figures.\",\n  \"RATING\" : \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\" : \"uniformity, repetition, facelessness\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

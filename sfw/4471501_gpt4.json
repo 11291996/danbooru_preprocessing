@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjQ6Fe5Uycm7Zo3e6ZV2AtmVaZLq",
+    "object": "chat.completion",
+    "created": 1704956734,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1510,
+        "completion_tokens": 249,
+        "total_tokens": 1759
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image portrays 3girls with a mutual hug, where their arms are around each other's backs. All girls have long_hair, with one exhibiting aqua_hair and aqua_eyes, another with blue_hair and blue_eyes, and the third with pink_hair and pink_eyes. They are looking_at_viewer, each with a unique expression: a smile, an open_mouth, and one looking_back. Their hair features food-themed_hair_ornament and hair_ornament, like a cherry_hair_ornament. They wear neckties \u2013 aqua_necktie, blue_necktie, pink_necktie \u2013 and shirts, of which one is a white_shirt. The characters have some distinguishing elements like shoulder_tattoo, tattoos, and twintails. Clothing details include bare_shoulders, sleeveless, sleeveless_shirt, black_sleeves, grey_sleeves, and pink_sleeves. One character has detached_sleeves. The personas exhibit features like very_long_hair and multiple_persona.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime, art\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

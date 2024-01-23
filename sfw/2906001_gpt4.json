@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjWMEwR22iwXnGUkyo6H28olhnPY",
+    "object": "chat.completion",
+    "created": 1704957122,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1127,
+        "completion_tokens": 209,
+        "total_tokens": 1336
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"In the image, a 1girl and a 1boy are featured. The girl, who is standing, has orange_hair styled in a ponytail, blue_eyes, and is wearing a white_shirt with a black_skirt that is high-waist_skirt in design. A black_ribbon as a neck_ribbon accentuates her attire. She is holding_tray with a glass on it, exhibiting a face with parted_lips and an open_mouth, which suggests a surprised or panicked expression. A sweatdrop is visible on her face, possibly due to the falling glass situation. The boy, depicted in profile with purple_hair and purple_eyes, is wearing a shirt with short_sleeves and holding something as well, although it is not completely visible in the image. They are set against a simple_background with a white_background.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"surprise, dynamic_pose\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

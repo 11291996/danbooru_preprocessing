@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjWNSLyml1Ta187C8pqDe8dTlh2Z",
+    "object": "chat.completion",
+    "created": 1704957123,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1811,
+        "completion_tokens": 192,
+        "total_tokens": 2003
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n\"RESPONSE\" : \"The image showcases 5boys engaged in a shimakaze_(kancolle)_(cosplay). Each male_focus displays different hair colors such as black_hair, blonde_hair, brown_hair, blue_hair, and red_hair. Their eyes are equally varied, with blue_eyes, purple_eyes, and red_eyes. Expressions range from blush, smile, to open_mouth. They wear crossdressing items like highleg_panties, striped_thighhighs, and white_gloves, adding to the cosplay attire which includes skirt and elbow_gloves. Some of the boys are also in underwear, revealing their navel and further contributing to the cheeky nature of the cosplay. The setting implies a delightful and playful mood among the multiple_boys.\",\n\"RATING\" : \"SAFE\",\n\"ADDITIONAL_TAGS\" : \"anime_style, digital_art\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYRhU1jxAjLrZNkTURMF9YthrXN",
+    "object": "chat.completion",
+    "created": 1704957251,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1147,
+        "completion_tokens": 197,
+        "total_tokens": 1344
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features a solo 1girl with blonde_hair and pink_eyes, wearing a brown_headwear with goggles_on_headwear and a hat_ornament. She has a black_choker, a mole_on_breast, and is wearing a corset highlighting her cleavage. The character sports detached_sleeves, elbow_gloves, and a smile with one_eye_closed. The attire includes brown_shorts with a belt and belt_pouch, a potion visible in a pouch, and white_thighhighs completed with garter_straps. The girl is indoors, hand_up near a bulletin_board with a wanted poster_(object), map, and book in the background, suggesting a steampunk theme. The artist_name is possibly included in the image.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"wink, steampunk setting, teasing expression\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

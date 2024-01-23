@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYaHR0HvLD8IVoxuuuGlxsHtZ3v",
+    "object": "chat.completion",
+    "created": 1704957260,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1511,
+        "completion_tokens": 272,
+        "total_tokens": 1783
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image shows 2girls in a chibi art style featuring a virtual_youtuber theme with one girl wearing asymmetrical_footwear including a single_thighhigh and single_fishnet_legwear, both exhibiting a full_body view. The girl in the back has grey_hair with striped_horns, heart-shaped_pupils, demon_tail, yellow_eyes, and a skin_fang; she's donning a hat, a baseball_cap to be precise. Meanwhile, the girl in the foreground displays blush, fang, green_eyes, open_mouth, smile, and long_hair styled into twintails. She has ear_piercing, pointy_ears, and piercing visible, wearing a white_jacket, coat with long_sleeves, sleeves_past_fingers, and sleeves_past_wrists. Notably, the purple_hair girl has mismatched_footwear with boots and her jacket appears to be a white_jacket, while a striped_horns detail can be seen on the demon_girl. The heart symbols within their eyes and other small heart design elements contribute to a playful and affectionate atmosphere. The background is kept simple, notably a white_background.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"playful\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

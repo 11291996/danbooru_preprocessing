@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjMhfMPUF1FgMratwbwHcp0GhyFC",
+    "object": "chat.completion",
+    "created": 1704956523,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1066,
+        "completion_tokens": 119,
+        "total_tokens": 1185
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"RESPONSE\": \"The image is a monochrome sketch depicting a comic scene with a 1boy and a 1girl. The boy has short_hair and the girl is illustrated with long_hair styled in twintails. Both are wearing coats; the boy's is buttoned up, while the girl's is more open, exposing her scarf. Both characters are drawn in a detailed manner with expressive faces, suggesting a moment of interaction or dialogue.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"expressive, interaction, dialogue\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

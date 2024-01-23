@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjQJKMte4uDDfujLFBwdTKU4DT02",
+    "object": "chat.completion",
+    "created": 1704956747,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1092,
+        "completion_tokens": 173,
+        "total_tokens": 1265
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image portrays 2girls in a monochrome greyscale, where one with long_hair and a hairband exhibits closed_eyes and an expression of contentment, receiving a hug from the other girl, who is an elf with pointy_ears, and also wearing a collared_shirt and swept_bangs. Both are depicted in the upper_body view against a simple_background that is white. English_text within speech_bubble elements reveals a tender exchange with the phrases 'I love you, my dear.' and 'As do I love you, my dearest.', suggesting a yuri theme. Elements such as a button_up_skirt and shirts contribute to the attire of the characters.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"affectionate, emotional\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

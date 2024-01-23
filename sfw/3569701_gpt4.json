@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYFsoDA5AHGpoiR3cI9u4k7CzpZ",
+    "object": "chat.completion",
+    "created": 1704957239,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1433,
+        "completion_tokens": 125,
+        "total_tokens": 1558
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image is a greyscale monochrome comic featuring multiple_girls. One girl with medium_hair is wearing a sailor_shirt with long_sleeves, a sailor_collar, and a skirt, standing in a field observing another girl with short_hair, who is seated and sports a sailor_hat with a hat_bow, blouse, and short_sleeves with frills and frilled_sleeves.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"field, seated_position, standing_position, observing, dialogue\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

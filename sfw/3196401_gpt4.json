@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjU3T1Ou2GRrFDBwQutlC58C2XJn",
+    "object": "chat.completion",
+    "created": 1704956979,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1557,
+        "completion_tokens": 300,
+        "total_tokens": 1857
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 5girls, outdoors during day on a flight_deck with multiple_girls walking and one in mid-stride. They are all wearing japanese_clothes, with variations such as a blue_skirt, green_skirt, red_skirt, and hakama_skirt. Legwear varies between black_legwear, thighhighs, and socks. Some girls have long_hair while one displays twintails, and hair accessories range from headband to hair_ribbon. Two girls are holding bows (holding_bow_(weapon)), while others have a quiver, muneate, and glove,(brown_gloves) indicating archery equipment. Facial expressions vary with characters showing a smile, open_mouth, blush, and one with closed_eyes. One girl is floating_hair with a ponytail and headband. Wind is indicated by floating_hair and wind_lift of the skirts. The background is blurry (blurry_background), contributing to the image's depth. Blurs are also seen on certain moving characters (blurry). The image may be related to 'remodel_(kantai_collection)', as suggested by the rigging and the girls' outfits resembling ship parts. All the characters are showing dynamics, such as high_five, holding_weapon, and twintails being lifted by wind, giving the scene an active, lively atmosphere. The scene appears to be letterboxed.\",\n  \"RATING\":"
+            },
+            "finish_reason": "length",
+            "index": 0
+        }
+    ]
+}

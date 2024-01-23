@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjHxTyfVbyLKYT6xxvJ4ufTAO2Uf",
+    "object": "chat.completion",
+    "created": 1704956229,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1484,
+        "completion_tokens": 276,
+        "total_tokens": 1760
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image displays 2girls in an intimate french_kiss. One girl with pink_hair and another with purple_hair are engaging in a kiss from_side perspective. The pink-haired girl has closed_eyes and is exhibiting heavy_breathing, as indicated by sweat droplets, which suggests a state of arousal or excitement. The purple-haired girl shows facial_mark and dragon_horns as well as a dragon_tail, featuring fantasy elements like dragon traits alongside purple_eyes. Both characters wear earrings; specifically, hoop_earrings adorn the ears of the purple-haired girl who also has pointy_ears, long_hair, and very_long_hair that is low-tied_long_hair. They are sitting in a wariza position with the pink-haired girl looking_to_the_side and the dark-skinned_female displaying dark_skin. Attire includes armor and boots on the purple-haired girl, and a white_cape on the pink-haired girl. Ribbons and a hair_ornament can be seen in the hair of the pink-haired girl, and armlet and greaves accessorize the purple-haired figure. The background is simple and grey_background, focusing the attention on the characters.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"intimacy, fantasy, arousal\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fivTscbumjTo4k2PUrAtf80FLclj",
+    "object": "chat.completion",
+    "created": 1704954835,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1082,
+        "completion_tokens": 105,
+        "total_tokens": 1187
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The sketch depicts 1boy and 1girl; the girl is wearing a black_bodysuit and an animal_helmet that resembles a motorcycle_helmet, giving her a biker_clothes or bikesuit appearance. Her arms are crossed_arms and the boy exhibits a blush, suggesting a parody of the phrase can't_be_this_cute.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"comedy, interaction\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

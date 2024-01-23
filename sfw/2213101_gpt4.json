@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjW08fandWFfXGvFL2yxZ1iDPgkC",
+    "object": "chat.completion",
+    "created": 1704957100,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1473,
+        "completion_tokens": 168,
+        "total_tokens": 1641
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 4girls in uniform, each with distinct hairstyles and attributes: black_hair, blonde_hair, blue_hair, red_eyes, blue_eyes, and different expressions such as smile, open_mouth, and looking_at_viewer. They're adorned with various accessories like hat, hair_beads, hair_bobbles, hair_ornament, and ascot. The girls are engaged in different actions: standing, walking, hand_in_pocket, crossed_arms, and one holding a cellphone. They are amidst a setting with a bridge, building, and an orange_sky that implies it might be dusk or dawn.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"dusk, dawn, school_uniform\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

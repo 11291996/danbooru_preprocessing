@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjVxNGFcEmzr3g8MTJYZMtkPXPfD",
+    "object": "chat.completion",
+    "created": 1704957097,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 948,
+        "completion_tokens": 219,
+        "total_tokens": 1167
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The monochrome comic depicts a scene with multiple_boys and multiple_girls indoors, showcasing characters in uniform including collared_shirt, shirt, skirt, pleated_skirt, neck_ribbon, and cape. One of the male figures is wearing a pipe_in_mouth and smoking_pipe, creating a sense of surprise among the nearby characters, as indicated by their expressions and the speech_bubble and thought_bubble coming from them. The setting includes elements such as ceiling, chair, door, wall, and monitor, hinting at a storyline that involves machinery and the actions taking place inside a room, possibly an office or a classroom. The characters possess various hairstyles such as long_hair, medium_hair, ahoge, one_side_up, and parted_bangs. The artwork, by artist_name, is styled in a greyscale tone and adheres to the 4koma (four-panel comic) format.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"office or classroom setting\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

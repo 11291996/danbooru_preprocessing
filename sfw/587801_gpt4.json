@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjZ3UqJXQXTPgwRtFb8U4vvWQ08Y",
+    "object": "chat.completion",
+    "created": 1704957289,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1099,
+        "completion_tokens": 190,
+        "total_tokens": 1289
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts multiple_girls sitting on_floor, where one with grey_hair and red_eyes performs a clothes_grab on the sleeve of another with blue_hair. The girl with blue_hair who is sitting barefoot also displays hair_ribbon, and hair_bow elements, while the girl with grey_hair is exhibiting a hand_on_another's_head gesture. They both have long_hair, and the one grabbing the clothes has suspenders. The characters in this artwork show signs of yuri, a term used to describe a romantic or intimate relationship between two girls. Both are capturing a cleavage view, where one is showcasing medium_breasts. Legs and feet are visibly centered, emphasizing the barefoot aspect of one girl.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"intimacy, artwork, anime_style\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

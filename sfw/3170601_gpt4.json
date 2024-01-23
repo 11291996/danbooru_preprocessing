@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fixmb0qUXzJ2jdCTwPJjq9SpZgGh",
+    "object": "chat.completion",
+    "created": 1704954978,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1073,
+        "completion_tokens": 136,
+        "total_tokens": 1209
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 1girl in multiple_views: one showcasing her from the back and the other from the front. She has blonde_hair styled in a ponytail, blush on her cheeks, and a closed_mouth. The girl is wearing a white_dress that fits closely to her figure, accentuating her breasts. The dress appears elegant and is complemented by a handbag she's holding. The character is standing with a simple_background and is looking_at_viewer in one of the views.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"elegance, fashion, style\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjX0ep7LTp20gDVySIvoXdSI9yHo",
+    "object": "chat.completion",
+    "created": 1704957162,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1111,
+        "completion_tokens": 162,
+        "total_tokens": 1273
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\" : \"The image depicts 2girls in a hug, with one displaying blonde_hair and the other purple_hair. Both have long_hair and long_sleeves, and one has very_long_hair with twintails. The girl with blonde_hair is characterized by tentacle_hair and planet_hair_ornament, indicative of the virtual_youtuber limiter_(tsukumo_sana). The dark-skinned_female with dark_skin wears a sweater and her hair is adorned with a hair_ornament. English_text 'I'll miss you...' is present, adding an emotional layer to the scene.\",\n  \"RATING\" : \"SAFE\",\n  \"ADDITIONAL_TAGS\" : \"emotional, farewell_message\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

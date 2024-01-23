@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjOmBPWqK3VO3vHmWmbFI5UmWrm5",
+    "object": "chat.completion",
+    "created": 1704956652,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1093,
+        "completion_tokens": 145,
+        "total_tokens": 1238
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n\"RESPONSE\" : \"The image depicts 2boys and 2girls; the girls with brown_hair and purple_hair are holding_hands with interlocked_fingers, both exhibiting blue_eyes and purple_eyes respectively. The boys in the backdrop, one with black_hair and the other with white_hair, are touching heads, and one of them sports an ahoge. One girl wears a dress, and the other is in a hoodie, while one boy has a hood with dual_persona expressions, indicating multiple_boys and multiple_girls in this child-like, aged_down illustration.\",\n\"RATING\" : \"SAFE\",\n\"ADDITIONAL_TAGS\" : \"short_hair\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fiypvNH6iYl2uNXlTc4EPV3AHj5C",
+    "object": "chat.completion",
+    "created": 1704955043,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1500,
+        "completion_tokens": 276,
+        "total_tokens": 1776
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image showcases a 1girl with very_long_hair and brown_hair, featuring animal_ears that resemble horse_ears, as well as a horse_tail, which together suggest she is a horse_girl. She is wearing a white_leotard with neon_trim and a grey_skirt that is a pleated_skirt with a miniskirt length. The leotard is styled as an impossible_leotard with impossible_clothes design, revealing the cleavage, armpits, and part of the ass. Large_breasts are prominently displayed, and the design includes a detached_sleeves element on her arms, incorporating a hairband and a necktie, specifically a grey_hairband and a pink_necktie. The tail_through_clothes detail can be seen with the tail_ornament, and she has a cowboy_shot pose with arms_up and arms_behind_back. Her blue_eyes are gazing to the side in a profile view, and there's an ahoge on the top of her head. Her expression includes parted_lips and hair_between_eyes, which is a feature often emphasized in anime-style illustrations.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"Anime-Style Illustration, Suggestive Pose\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

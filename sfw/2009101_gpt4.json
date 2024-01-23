@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjYwwaTKUDCZPm5OhqqaXosrSdnt",
+    "object": "chat.completion",
+    "created": 1704957282,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1451,
+        "completion_tokens": 168,
+        "total_tokens": 1619
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts multiple_girls indoors, with four girls kneeling or sitting on a carpet, exhibiting bare_legs and bare_shoulders. Each girl has a sign_around_neck, and they exhibit varying hair colors including brown_hair, purple_hair, and one with short_hair. The expressions on their faces range from a smile to a false_smile, and their eye colors include blue_eyes, green_eyes, and purple_eyes. Additionally, one girl is hugging_own_legs, some display bags_under_eyes, and they seem to be wearing linked_collar, which may imply a theme of subjugation or slavery.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"subjugation, theme\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

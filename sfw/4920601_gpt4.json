@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjXb1P8JUJQQ0rZ2HD6xH4iwEmH6",
+    "object": "chat.completion",
+    "created": 1704957199,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1512,
+        "completion_tokens": 162,
+        "total_tokens": 1674
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The comic depicts multiple girls with distinct hairstyles such as twintails, braid, and long hair, along with features like a bow, bowtie, and hair ornaments. They are wearing school uniforms with sailor collars, long sleeves, and vests. Attributes like big belly, animal ears specifically horse ears, and expressions denoting a yandere personality or menacing appearance are present. The male character, whose face is not shown (faceless_male), sports a vest and a bowtie as part of his attire. The scene includes elements like a plate stack and speech bubbles indicating dialogue.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"Manga, Speech, Uniform Attire, Social Interaction, Emotion Display\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

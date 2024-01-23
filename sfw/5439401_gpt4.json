@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjRGQu12eB8r1dZ893sLDESrpv9U",
+    "object": "chat.completion",
+    "created": 1704956806,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1088,
+        "completion_tokens": 115,
+        "total_tokens": 1203
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image shows 2girls with animal_ears, specifically tiger_ears, and tails that indicate they are tiger_girl characters. One girl has white_hair and red_eyes, while the other has blonde_hair. Both are wearing detached_sleeves with wide_sleeves, smiling and looking_at_viewer. The presence of erune features suggests a fantasy or anthropomorphic theme.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"fantasy, anthropomorphic, illustration\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

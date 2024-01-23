@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjRkbSCjmIBtmkFPljrUt8GQaA4H",
+    "object": "chat.completion",
+    "created": 1704956836,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1483,
+        "completion_tokens": 166,
+        "total_tokens": 1649
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features 2girls, one with black_hair wearing a black_dress with detached_sleeves, and a long_ponytail accentuated by a hair_ornament and red_hairband. The other girl has black_shorts, a white_shirt with short_sleeves, and black_sleeves. Both girls are leaning_forward against_railing, with potted_plants and a flower_pot nearby. It is day, they are outdoors, with buildings and neon_lights in the background. One girl is wearing a wristwatch. Both girls display a closed_mouth expression, with one having closed_eyes.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"ambience, friendship, urban_environment\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

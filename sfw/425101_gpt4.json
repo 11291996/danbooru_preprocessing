@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjXTa4a2hNdw3e2MOAO0u1DVj3hI",
+    "object": "chat.completion",
+    "created": 1704957191,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1084,
+        "completion_tokens": 120,
+        "total_tokens": 1204
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"In the image, multiple_boys are featured with one holding_book and the other holding an energy_tank with a drinking_straw. The boy with blue_eyes and blue_headwear has green_eyes and is engaged in studying the open_book, showing eye_contact with the second male_focus who has a helmet and notice_lines indicating his attention or reaction. Both boys exhibit android characteristics and are looking_at_another.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"interaction, characters, studying together, curiosity\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

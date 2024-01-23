@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjUiyYhRdFvz8UdxBPRgzcYhdjEJ",
+    "object": "chat.completion",
+    "created": 1704957020,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1471,
+        "completion_tokens": 171,
+        "total_tokens": 1642
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features a 1girl with pink_hair and blue_eyes, smiling at the viewer. She has her arms_behind_back, wearing a black_hoodie that is part of her blue_jacket with puffy_long_sleeves. Her jacket is open_clothes, revealing a white_hoodie underneath, which also appears to have puffy_sleeves. She also has a hood_down from the hoodie. Her expression includes an open_mouth displaying upper_teeth_only, and she has hair_between_eyes. The character is depicted in a cowboy_shot pose and is wearing red_pantyhose under a sleeveless_jacket with the hood_down.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"anime_style, full_color\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjZHMJWTleGnCTrt7AvnkMXRGVHD",
+    "object": "chat.completion",
+    "created": 1704957303,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1320,
+        "completion_tokens": 197,
+        "total_tokens": 1517
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image depicts multiple_girls sitting on a couch, each exhibiting distinct styles and attributes. One is wearing a red_dress with a black_choker, hat, hair_between_eyes, and holding a drink, seemingly singing with musical_note symbols. The character in the center is portrayed with closed_eyes, a jester_cap embellished with a crescent and multicolored_dress, also holding a drink. The figure on the right is adorned in chinese_clothes with a phoenix_crown, open_mouth smile, and long_hair, reflecting a content demeanor while drinking. The artwork features a white_background, and each character displays unique elements such as bow, bowtie, choker, earth_(ornament), and moon_(ornament), contributing to a lively and multifaceted scene.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"animated_characters, party\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

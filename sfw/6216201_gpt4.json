@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjWVFMOsQso2syjZG0TQxkT1vucs",
+    "object": "chat.completion",
+    "created": 1704957131,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1517,
+        "completion_tokens": 258,
+        "total_tokens": 1775
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"2boys are depicted in the imagery, engaging in a board_game of chess. One male_focus character is sitting, wearing purple_pants, a purple_bowtie, and accompanied by a black_footwear. His hair has a demon_tail, suggesting he might be a demon_boy. His facial expression is a grin, and he is hand_on_own_face. The other character is also portrayed as a demon_boy, with demon_horns, hooves, and demon_tail. He exhibits an evil_grin and possesses red_eyes. He is holding a cigar, manifesting smoke as he sits. Both characters display distinct attributes, such as sharp_fingernails and black_nails. The setting includes a checkered_floor, resembling a chessboard, and a window behind, suggesting the location is within a mansion. The red_curtains and reflection from a fireplace illuminate the room. There are chess_piece on the table, notably king_(chess) and pawn_(chess), and a knight_(chess) piece as well.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"facial_hair, mirror, multiple_boys, smile, sitting, suit, window\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

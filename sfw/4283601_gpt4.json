@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fiv6jy9jQVjqOhElVKLvOMnHoOaQ",
+    "object": "chat.completion",
+    "created": 1704954812,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1515,
+        "completion_tokens": 192,
+        "total_tokens": 1707
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RESPONSE\": \"The image features a 1girl with black_hair and red_eyes smiling and looking_at_viewer. She is in an alternate_costume that includes a black_leotard with cleavage, resembling a playboy_bunny outfit, complete with a black_bowtie, bow, detachable_collar, wrist_cuffs, and fishnet_pantyhose. She has rabbit_ears and a rabbit_tail, adding to the bunny theme. Additionally, she also has fake_animal_ears atop her head. Her arms are raised with arms_up and own_hands_clasped. The setting includes a gradient_background with a purple_background exemplifying a sparkly aesthetic. Also notable are the asymmetrical_wings, one red and the other blue, attached to her back.\",\n  \"RATING\": \"SAFE\",\n  \"ADDITIONAL_TAGS\": \"sparkly aesthetic, bunny theme\"\n}\n```"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

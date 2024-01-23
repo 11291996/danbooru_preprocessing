@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8fjS4V2HF8CdGiZGKM7wjjRaRdV9w",
+    "object": "chat.completion",
+    "created": 1704956856,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 754,
+        "completion_tokens": 138,
+        "total_tokens": 892
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"RESPONSE\": \"In the monochrome artwork, a 1girl with large_breasts is depicted in a cowboy_shot. She exhibits a blush while looking_at_viewer with a smile. The long_hair of the girl is styled into twintails, secured with a hair_scrunchie, and further adorned by a hair_ornament. Her hands_on_own_chest gently touch her collarbone. The girl is wearing only underwear, which includes a bra and panties, revealing her navel and stomach. The pose she strikes emphasizes a thigh_gap.\",\n  \"RATING\": \"QUESTIONABLE\",\n  \"ADDITIONAL_TAGS\": \"artwork, pose\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
